@@ -16,25 +16,30 @@ Have `docker` and `docker-compose` installed on your computer.
 
 This can be done on MacOS via homebrew with the command:
 
-MacOS With homebrew:
+### MacOS With homebrew:
 ```bash
 brew install docker
 install docker-compose
 ```
 
-Ubuntu:
+### Ubuntu:
 ```bash
 sudo apt-get update
 sudo apt-get install docker-compose-plugin
 ```
 
-Verify installation with
+### Alternative options
+For ease of use you can download [docker desktop](https://www.docker.com/products/docker-desktop/), this will work on Windows or MacOS. This method will still require the use of command line to run this database. The SQL files can be loaded into a MySQL database using the section `Accessing The Database` below.
+
+### Verify installation with
+```bash
+docker -v
+```
+
 ```bash
 docker-compose -v
 ```
-Which should print out the current version number if it is available.
-
-Or for ease of use you can download [docker desktop](https://www.docker.com/products/docker-desktop/), this will work on Windows or MacOS. This method will still require the use of command line to run this database. The SQL files can be loaded into a MySQL database using the section `Accessing The Database` below.
+Which should print out the current version number if `docker` and `docker-compose` respectively if installed correctly. This should work within either `powershell` or `bash` like cli interfaces
 
 ### Note for Windows
 Windows may require turning on various virtualization options in the BIOS to allow docker to run properly.
