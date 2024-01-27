@@ -16,6 +16,5 @@ services:
     volumes:
       - perseus_db:/var/lib/mysql
       - ./sql:/docker-entrypoint-initdb.d/
-
 volumes:
   perseus_db:

@@ -1,15 +1,14 @@
 ## Shakespeare DB project
 
+This is a free and open source project at this time.
 
-I'm hoping to extract data from various sources including but not limited to:
-- Perseus
-- OpenShakespeareProject
-
-With the express goal of creating a sufficient api for use with both mobile and web applications to provide a shakespeare lexicon, with direct text references. 
-
-This is a free and open source project at this time and may become monetized later depending on server and distribution costs.
+The current database is made up of information retrieved from [Perseus](https://www.perseus.tufts.edu/hopper/) - this information may be able to be parsed for the purposes of this project, this is currently being explored
 
 # To Run the database:
+
+## Unzip database files
+
+Unzip the compressed SQL files for db setup into a folder at the root level called `sql` with the contents of `sql.zip`
 
 
 ## Install Docker
