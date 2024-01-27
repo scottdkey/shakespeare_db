@@ -46,7 +46,7 @@ Windows may require turning on various virtualization options in the BIOS to all
 
 
 ## Setting Environment variables
-In the root of this directory there is a file named `.env.example`, make a copy of this file and fill in the values needed to access the database. If you copy the contents of `.env.example` this will still run the database locally using those as default values
+In the root of this directory there is a file named `.env.example`, make a copy of this file rename it '.env' at the top level directory and update the values as needed to access the database. If you copy the contents of `.env.example` this will still run the database locally using those as default values. Default connection information can be found below. 
 
 
 ## Running Databases
