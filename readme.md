@@ -34,7 +34,12 @@ docker-compose -v
 ```
 Which should print out the current version number if it is available.
 
-Or for ease of use you can download [docker desktop](https://www.docker.com/products/docker-desktop/), this will work on Windows or MacOS. This method will still require the use of command line to run this database. The SQL files can be loaded into a MySQL database using the section `Accessing The Database` below
+Or for ease of use you can download [docker desktop](https://www.docker.com/products/docker-desktop/), this will work on Windows or MacOS. This method will still require the use of command line to run this database. The SQL files can be loaded into a MySQL database using the section `Accessing The Database` below.
+
+### Note for Windows
+Windows may require turning on various virtualization options in the BIOS to allow docker to run properly.
+
+#### The docker setup is for ease of use, these SQL files are compatible with the MySQL dialect and can be used in any compatible database, such as [PlanetScale](https://planetscale.com/)
 
 
 ## Setting Environment variables
