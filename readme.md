@@ -38,7 +38,7 @@ Or for ease of use you can download [docker desktop](https://www.docker.com/prod
 
 
 ## Setting Environment variables
-In the root of this directory there is a file named .env.example, make a copy of this file and fill in the values needed to access the database.
+In the root of this directory there is a file named `.env.example`, make a copy of this file and fill in the values needed to access the database. If you copy the contents of `.env.example` this will still run the database locally using those as default values
 
 
 ## Running Database
@@ -78,3 +78,16 @@ There are many ways, including programming language connectors. For direct acces
 
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Beekeeper Studio](https://www.beekeeperstudio.io/)
+
+The default options(if you just copy the contents of .env.example)
+
+
+```env
+DATABASE_NAME=perseus
+DATABASE_USERNAME=perseus
+DATABASE_PASSWORD=superSecretPassword
+DATABASE_HOST=localhost
+DATABASE_PORT=3306
+```
+
+This database can be served if desired, however it is not recommended, as this project is intended for local development purposes.
