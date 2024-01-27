@@ -101,3 +101,16 @@ DATABASE_PORT=3306
 ```
 
 This database can be served if desired, however it is not recommended, as this project is intended for local development purposes.
+
+
+## To-Do
+
+Create queries that will filter for needed information. Based on table names, the entities table probably has the information needed. There were errors downloading the following SQL files from the `Perseus` site. Hopefully I'll have constructed some queries to pull desired information out. With the major goal of getting limited information to add to a much smaller SQLite db to package with an application.
+
+- hib_chunks.tar.gz
+- hib_entities.tar.gz
+- hib_entity_occurrences.tar.gz
+- hib_frequencies.tar.gz
+- morph_votes.tar.gz
+- sgml.xml.texts.tar.gz
+- sgml.xml.cache.tar.gz
