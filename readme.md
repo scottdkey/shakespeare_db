@@ -18,14 +18,14 @@ This can be done on MacOS via homebrew with the command:
 
 MacOS With homebrew:
 ```bash
-`brew install docker`
-`brew install docker-compose`
+brew install docker
+install docker-compose
 ```
 
 Ubuntu:
 ```bash
-$ sudo apt-get update
-$ sudo apt-get install docker-compose-plugin
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
 ```
 
 Verify installation with
