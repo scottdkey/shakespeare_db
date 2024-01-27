@@ -2,13 +2,10 @@
 
 This is a free and open source project at this time.
 
-The current database is made up of information retrieved from [Perseus](https://www.perseus.tufts.edu/hopper/) - this information may be able to be parsed for the purposes of this project, this is currently being explored for viablility of this project.
 
-# To Run the database:
-
-## Unzip database files
-
-Unzip the compressed SQL files for db setup into a folder at the root level called `sql` with the contents of `sql.zip`
+## individual setups - please start here before continuing below
+-[setup perseus](./perseus-db.md)
+-[setup open source shakespeare](./oss.md)
 
 
 ## Install Docker
@@ -44,15 +41,16 @@ Which should print out the current version number if `docker` and `docker-compos
 ### Note for Windows
 Windows may require turning on various virtualization options in the BIOS to allow docker to run properly.
 
-#### The docker setup is for ease of use, these SQL files are compatible with the MySQL dialect and can be used in any compatible database, such as [PlanetScale](https://planetscale.com/)
+#### The docker setup is for ease of use
+- The Database files are compatible with the MySQL dialect and can be used in any compatible database, such as [PlanetScale](https://planetscale.com/)
 
 
 ## Setting Environment variables
 In the root of this directory there is a file named `.env.example`, make a copy of this file and fill in the values needed to access the database. If you copy the contents of `.env.example` this will still run the database locally using those as default values
 
 
-## Running Database
-Navigate to the folder via cli, and on most operating systems run the application with the command. 
+## Running Databases
+Navigate to the folder via cli, and on most operating systems run the application with the command. This will spin up both the `OpenSourceShakespeare` and `Perseus` databases.
 
 
 Terminal attached to application:
@@ -89,28 +87,23 @@ There are many ways, including programming language connectors. For direct acces
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Beekeeper Studio](https://www.beekeeperstudio.io/)
 
-The default options(if you just copy the contents of .env.example)
+The default options(if you just copy the contents of .env.example), you can connect to one or both of the databases created here. They are both compatible with MySQL dialect, and that should be used as the option when connecting
 
 
 ```env
-DATABASE_NAME=perseus
-DATABASE_USERNAME=perseus
-DATABASE_PASSWORD=superSecretPassword
-DATABASE_HOST=localhost
-DATABASE_PORT=3306
+PERSEUS_DB_NAME=perseus
+PERSEUS_DB_USERNAME=perseus
+PERSEUS_DB_PASSWORD=superSecretPassword
+PERSEUS_ROOT_PASS=moreSecretPassword
+PERSEUS_DB_HOST=localhost
+PERSEUS_DB_PORT=3306
+
+OSS_DB_NAME=oss
+OSS_DB_USERNAME=oss
+OSS_DB_PASSWORD=superSecretPassword
+OSS_DB_ROOT_PASS=moreSecretPassword
+OSS_DB_HOST=localhost
+OSS_DB_PORT=3307
 ```
 
-This database can be served if desired, however it is not recommended, as this project is intended for local development purposes.
 
-
-## To-Do
-
-Create queries that will filter for needed information. Based on table names, the entities table probably has the information needed. There were errors downloading the following SQL files from the `Perseus` site. Hopefully I'll have constructed some queries to pull desired information out. With the major goal of getting limited information to add to a much smaller SQLite db to package with an application.
-
-- hib_chunks.tar.gz
-- hib_entities.tar.gz
-- hib_entity_occurrences.tar.gz
-- hib_frequencies.tar.gz
-- morph_votes.tar.gz
-- sgml.xml.texts.tar.gz
-- sgml.xml.cache.tar.gz
