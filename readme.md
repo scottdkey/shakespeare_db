@@ -2,7 +2,7 @@
 
 This is a free and open source project at this time.
 
-The current database is made up of information retrieved from [Perseus](https://www.perseus.tufts.edu/hopper/) - this information may be able to be parsed for the purposes of this project, this is currently being explored
+The current database is made up of information retrieved from [Perseus](https://www.perseus.tufts.edu/hopper/) - this information may be able to be parsed for the purposes of this project, this is currently being explored for viablility of this project.
 
 # To Run the database:
 
