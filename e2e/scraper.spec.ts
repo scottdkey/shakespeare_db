@@ -11,7 +11,7 @@ test('scrape', async ({ page }) => {
   test.setTimeout(620000)
   await page.goto('https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.03.0079');
   let currentCount = 0
-  const maxRecords = 5
+  const maxRecords = 50
   const returnValues: any[] = []
   //only get limited number of values in development
   while (currentCount <= maxRecords) {

@@ -5,15 +5,14 @@ export const abbreviationLookup: { [key: string]: string } = {
   "F": "Folios",
   "f. i.": "for instance",
   "cf.": "compare",
-  "i.e.": "in example",
+  "i. e.": "in example",
   "q. v.": "which see",
   "M. Edd.": "Modern Editors",
   "auth.": "authentic",
   "om.": "omitted",
   "ger.": "gerunds",
-  "f": "(for)",
-  "i": "(indefinite)",
-  "cf": "(compare with)"
+  "art.": "article",
+  "ind.": "indefinite"
 };
 
 

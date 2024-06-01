@@ -3,6 +3,11 @@ import { ensureArray } from "./ensureArray";
 import { parseBiblText } from "./parseBiblText";
 import { parseSchmidtLexicon } from "./parseDefinition";
 
+/**
+ * 
+ * @param data as far as I've been able to pick apart the perseus data structure for their xmls for the lexicon. 
+ * @returns a somewhat parsed(improving every day.)
+ */
 export const parseTEI = (data: TEI2) => {
   const div = data['TEI.2'].text.body.div1;
   const entryFree = ensureArray(div.entryFree);

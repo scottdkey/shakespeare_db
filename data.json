@@ -9,7 +9,7 @@
         {
           "parts": [
             "the first letter of the alphabet",
-            "sq"
+            " .   sq."
           ],
           "expansions": {},
           "bibl": {
@@ -41,11 +41,11 @@
         {
           "parts": [
             "a note in music",
-            ""
+            " ."
           ],
           "expansions": {},
           "bibl": {
-            "text": "Shr III, 1, 74",
+            "text": "Shr. III, 1, 74",
             "n": "shak. shr 3.1.74",
             "default": "NO",
             "valid": "yes",
@@ -54,7 +54,7 @@
             "scene": 1,
             "lines": 74,
             "nField": "shak. shr 3.1.74",
-            "biblText": "Shr III, 1, 74",
+            "biblText": "Shr. III, 1, 74",
             "playName": "The Taming of the Shrew"
           }
         }
@@ -72,17 +72,17 @@
       "schmidt": [
         {
           "parts": [
-            "or  indef art , the two forms differing as at present for",
-            "(Qq) (Ff) ; cf Before  generally  f i; cf Twice before",
-            "Of the original indiscriminate use of  before consonants as well as vowels a trace is left in the pun of Mrs Quickly",
-            ""
+            "or  indef. art., the two forms differing as at present.  for ",
+            " . . . . . . . . . . . . . . . . . . . . .  (Qq. ). . . . . . . . . . . .  (Ff ). . . . . ; cf. . Before  generally  f. i. . . . . . ; cf.  Twice . .  before ",
+            " . Of the original indiscriminate use of  before consonants as well as vowels a trace is left in the pun of Mrs Quickly",
+            " ."
           ],
           "expansions": {
             "Ff": "First Folio",
             "cf.": "compare"
           },
           "bibl": {
-            "text": "Wint II, 3, 114",
+            "text": "Wint. II, 3, 114",
             "n": "shak. wt 2.3.114",
             "default": "NO",
             "valid": "yes",
@@ -91,17 +91,19 @@
             "scene": 3,
             "lines": 114,
             "nField": "shak. wt 2.3.114",
-            "biblText": "Wint II, 3, 114",
+            "biblText": "Wint. II, 3, 114",
             "playName": "The Winter's Tale"
           }
         },
         {
           "parts": [
-            "Superfluous repetition of the ind art before adjectives",
-            "(F) No less before adjectives placed after their substantives",
-            ""
+            "Superfluous repetition of the ind. art. before adjectives",
+            " . . .  . . . . . . . . .  (F ). . No less before adjectives placed after their substantives",
+            " . . . . ."
           ],
           "expansions": {
+            "ind.": "indefinite",
+            "art.": "article",
             "F": "Folios"
           },
           "bibl": {
@@ -120,10 +122,11 @@
         },
         {
           "parts": [
-            "As before  and  (q v) the art is, though seldom, found before other numerals",
-            "(Q) Similarly before  q v"
+            "As before  and  (q. v.) the art. is, though seldom, found before other numerals",
+            " . .  (Q ). . Similarly before  q. v."
           ],
           "expansions": {
+            "art.": "article",
             "Q": "Quarto"
           },
           "bibl": {
@@ -142,17 +145,17 @@
         },
         {
           "parts": [
-            "Its use after  and  is in general conformable to the now prevailing rule (f i ), and the passage in",
-            "cannot be called an exception; but there are a few instances of its omission",
-            "(Ff) It seems to have strayed from its place in the following expressions",
-            "(== so rarely wondered a father, i e a father endowed with such a rare power of working miracles)  cf ; the phrases  etc being treated as simple words, from which adjectives in  might be derived"
+            "Its use after  and  is in general conformable to the now prevailing rule (f. i. . . ), and the passage in ",
+            "  cannot be called an exception; but there are a few instances of its omission",
+            " .  (Ff ). . It seems to have strayed from its place in the following expressions",
+            "  (== so rarely wondered a father, i. e. a father endowed with such a rare power of working miracles). . . cf. ; the phrases  etc. being treated as simple words, from which adjectives in  might be derived."
           ],
           "expansions": {
             "Ff": "First Folio",
             "cf.": "compare"
           },
           "bibl": {
-            "text": "Ant II, 5, 87",
+            "text": "Ant. II, 5, 87",
             "n": "shak. ant 2.5.87",
             "default": "NO",
             "valid": "yes",
@@ -161,15 +164,15 @@
             "scene": 5,
             "lines": 87,
             "nField": "shak. ant 2.5.87",
-            "biblText": "Ant II, 5, 87",
+            "biblText": "Ant. II, 5, 87",
             "playName": "Antony and Cleopatra"
           }
         },
         {
           "parts": [
             "Similarly placed between comparatives and their substantives",
-            "; especially when preceded by",
-            ""
+            " ; especially when preceded by ",
+            " . . . . . ."
           ],
           "expansions": {},
           "bibl": {
@@ -189,8 +192,8 @@
         {
           "parts": [
             "According to custom, the poet says",
-            "(f i), but also",
-            ""
+            "  (f. i. . . . . ), but also",
+            " . ."
           ],
           "expansions": {},
           "bibl": {
@@ -209,12 +212,13 @@
         },
         {
           "parts": [
-            "The art omitted after  and  (f i), even before the object",
-            "; cf (Qq) etc Keeping, however, its place, when  is but emphatically used for",
-            "cf Even in",
-            ""
+            "The art. omitted after  and  (f. i. . . . ), even before the object",
+            " . . ; cf. . . . .  (Qq ). .  etc. Keeping, however, its place, when  is but emphatically used for ",
+            " . cf. . . . . . . . .  . . . . Even in",
+            " ."
           ],
           "expansions": {
+            "art.": "article",
             "cf.": "compare",
             "Qq": "Quartos"
           },
@@ -235,7 +239,7 @@
         {
           "parts": [
             "Its omission in the predicate of rare occurrence",
-            "cf H6A V"
+            " . . . . . . . . .  . .  cf. H6A V . ."
           ],
           "expansions": {
             "cf.": "compare"
@@ -257,14 +261,14 @@
         {
           "parts": [
             "Often omitted in comparative sentences, and whenever the respective noun expresses the whole class",
-            "But also in a particular sense",
-            "In an apposition",
-            "Inserted, on the other hand, contrary to the common use",
-            ""
+            " .  . . . . .  . . . . .   . . . . . . . . . . . . . . . . . . But also in a particular sense",
+            " . . . In an apposition",
+            " . Inserted, on the other hand, contrary to the common use",
+            " ."
           ],
           "expansions": {},
           "bibl": {
-            "text": "Cor IV, 5, 114",
+            "text": "Cor. IV, 5, 114",
             "n": "shak. cor 4.5",
             "default": "NO",
             "valid": "yes",
@@ -273,19 +277,19 @@
             "scene": 5,
             "lines": 114,
             "nField": "shak. cor 4.5",
-            "biblText": "Cor IV, 5, 114",
+            "biblText": "Cor. IV, 5, 114",
             "playName": "Coriolanus"
           }
         },
         {
           "parts": [
-            "Used for",
-            "Oftenest in prepositional phrases",
-            ""
+            "Used for ",
+            " . . Oftenest in prepositional phrases",
+            " . . . . . . . . . . . . . . . . . . . . . . ."
           ],
           "expansions": {},
           "bibl": {
-            "text": "Caes II, 2, 77",
+            "text": "Caes. II, 2, 77",
             "n": "shak. jc 2.2.77",
             "default": "NO",
             "valid": "yes",
@@ -294,15 +298,15 @@
             "scene": 2,
             "lines": 77,
             "nField": "shak. jc 2.2.77",
-            "biblText": "Caes II, 2, 77",
+            "biblText": "Caes. II, 2, 77",
             "playName": "Julius Caesar"
           }
         },
         {
           "parts": [
             "Inserted before names serving for war-cries",
-            "Before names peculiarly used as appellatives",
-            ""
+            " . . . Before names peculiarly used as appellatives",
+            " . ."
           ],
           "expansions": {},
           "bibl": {
@@ -333,8 +337,8 @@
       "schmidt": [
         {
           "parts": [
-            "a corruption of different particles and formative syllables; 1) being a prefix to many words; cf etc 2) preceding gerunds (most M Edd making use of the hyphen)",
-            "; cf (Ff om)"
+            "a corruption of different particles and formative syllables; 1) being a prefix to many words; cf.  etc.2) preceding gerunds (most M. Edd. making use of the hyphen)",
+            " . . . .  . . . . . . . . ; cf. . . . . . . . . . . . . . . . . . . .  (Ff om.). . .  . . ."
           ],
           "expansions": {
             "cf.": "compare",
@@ -356,7 +360,7 @@
         },
         {
           "parts": [
-            "3) before substantives; frequently changed to  and  by M Edd Qq and Ff have almost always  etc (f i), M Edd throughout  (cf) The same liberty they have taken with most of the following passages, in which  is supported by all or at least by the most authentic old texts",
+            "3) before substantives; frequently changed to  and  by M. Edd. Qq and Ff have almost always  etc. (f. i. . . .), M. Edd. throughout  (cf. ). The same liberty they have taken with most of the following passages, in which  is supported by all or at least by the most authentic old texts",
             ""
           ],
           "expansions": {
@@ -365,7 +369,7 @@
             "cf.": "compare"
           },
           "bibl": {
-            "text": "Hml I, 3, 119",
+            "text": "Hml. I, 3, 119",
             "n": "shak. ham 1.3.119",
             "default": "NO",
             "valid": "yes",
@@ -374,14 +378,14 @@
             "scene": 3,
             "lines": 119,
             "nField": "shak. ham 1.3.119",
-            "biblText": "Hml I, 3, 119",
+            "biblText": "Hml. I, 3, 119",
             "playName": "Hamlet"
           }
         },
         {
           "parts": [
-            "a)  for",
-            "(Ff)  344 (Ff) (Ff) (Q) ; cf ; cf and 282 etc"
+            "a)  for ",
+            " . . . . . . . . . .   . .  . . . . . .  (Ff ). . . 344 (Ff ).  (Ff ). . .  (Q ). . ; cf. . . .    . ; cf.  and . . . . .   282 etc."
           ],
           "expansions": {
             "Ff": "First Folio",
@@ -389,7 +393,7 @@
             "cf.": "compare"
           },
           "bibl": {
-            "text": "Pilgr 100",
+            "text": "Pilgr. 100",
             "n": "shak. pp 100",
             "default": "NO",
             "valid": "yes",
@@ -398,14 +402,14 @@
             "scene": null,
             "lines": null,
             "nField": "shak. pp 100",
-            "biblText": "Pilgr 100",
+            "biblText": "Pilgr. 100",
             "playName": "pp"
           }
         },
         {
           "parts": [
-            "b) for",
-            "(Ff) (Ff) (Ff) (Ff) (Qq) , cf"
+            "b) for ",
+            " . . .  (Ff ).  (Ff ). . .  (Ff ). . . . . .  .  (Ff ). .  (Qq ). . , cf. . . .  . ."
           ],
           "expansions": {
             "Ff": "First Folio",
@@ -413,7 +417,7 @@
             "cf.": "compare"
           },
           "bibl": {
-            "text": "Oth III, 3, 71",
+            "text": "Oth. III, 3, 71",
             "n": "shak. oth 3.3.71",
             "default": "NO",
             "valid": "yes",
@@ -422,7 +426,7 @@
             "scene": 3,
             "lines": 71,
             "nField": "shak. oth 3.3.71",
-            "biblText": "Oth III, 3, 71",
+            "biblText": "Oth. III, 3, 71",
             "playName": "Othello"
           }
         },
@@ -447,8 +451,8 @@
         },
         {
           "parts": [
-            "c) for",
-            "(Ff) (Ff) (Ff)"
+            "c) for ",
+            " . .  (Ff ).  (Ff ). . . . . .  (Ff ). . . ."
           ],
           "expansions": {
             "Ff": "First Folio"
@@ -469,8 +473,8 @@
         },
         {
           "parts": [
-            "Even this  before vowels sometimes changed to",
-            "(in  and  Ff  Qq) (a solecism formed in derision by Coriolanus) i e of it, (the gravedigger's speech)"
+            "Even this  before vowels sometimes changed to ",
+            " . . .  (in  and  Ff  Qq ).  (a solecism formed in derision by Coriolanus).  i. e. of it,  (the gravedigger's speech)."
           ],
           "expansions": {
             "Ff": "First Folio",
@@ -504,8 +508,8 @@
       "schmidt": [
         {
           "parts": [
-            "corrupted from  (cf)",
-            "(Ff)"
+            "corrupted from  (cf. )",
+            " .  (Ff )."
           ],
           "expansions": {
             "cf.": "compare",
@@ -535,8 +539,8 @@
       "schmidt": [
         {
           "parts": [
-            "a mutilation of the pronoun  not only in the language of common people (f i 125) but of well-bred persons",
-            "etc Few M Edd retain the ancient spelling, most change it to  In many cases even O Edd differ, Qq having  Ff etc In  ()  seems, at first sight, to be used for  but in fact there is no certain reference to any particular person; cf"
+            "a mutilation of the pronoun  not only in the language of common people (f. i. .     .  . . . . 125) but of well-bred persons",
+            " . .  . . . .  . . . .  . . . . . . .  etc. Few M. Edd. retain the ancient spelling, most change it to  In many cases even O. Edd. differ, Qq having  Ff . . . .   . . . .   etc. In  ()  seems, at first sight, to be used for  but in fact there is no certain reference to any particular person; cf. . ."
           ],
           "expansions": {
             "Qq": "Quartos",
@@ -555,6 +559,2138 @@
             "nField": "shak. ado 3.3.28",
             "biblText": "Ado III, 3, 28",
             "playName": "ado"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "A,",
+      "valueKey": "A7",
+      "schmidt": [
+        {
+          "parts": [
+            "a remnant of Anglosaxon suffixes, serving as an expletive void of sense to fill up the metre",
+            " .  .   . . .  (reading of Qq; Ff ).  (M. Edd. ). It is needless to speak of the gibberish of Dr. Caius, who likes to prolong the words by appending an  f. i. . 85 etc."
+          ],
+          "expansions": {
+            "Ff": "First Folio"
+          },
+          "bibl": {
+            "text": "Wiv. I, 4, 47",
+            "n": "shak. wiv 1.4.47",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wiv",
+            "act": 1,
+            "scene": 4,
+            "lines": 47,
+            "nField": "shak. wiv 1.4.47",
+            "biblText": "Wiv. I, 4, 47",
+            "playName": "The Merry Wives of Windsor"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Aaron,",
+      "valueKey": "Aaron",
+      "schmidt": [
+        {
+          "parts": [
+            "name of the Moor in  etc."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Tit. II, 1, 12",
+            "n": "shak. tit 2.1.12",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tit",
+            "act": 2,
+            "scene": 1,
+            "lines": 12,
+            "nField": "shak. tit 2.1.12",
+            "biblText": "Tit. II, 1, 12",
+            "playName": "Titus Andronicus"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abandon,",
+      "valueKey": "Abandon",
+      "schmidt": [
+        {
+          "parts": [
+            "1) to leave",
+            " .  . . . .2) to desert, to forsake",
+            " .  (forsaken and kept from your bed). ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "As V, 1, 52",
+            "n": "shak. ayl 5.1.52",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ayl",
+            "act": 5,
+            "scene": 1,
+            "lines": 52,
+            "nField": "shak. ayl 5.1.52",
+            "biblText": "As V, 1, 52",
+            "playName": "As You Like It"
+          }
+        },
+        {
+          "parts": [
+            "3) to give up, to renounce",
+            " . . ."
+          ],
+          "expansions": {}
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abase,",
+      "valueKey": "Abase",
+      "schmidt": [
+        {
+          "parts": [
+            "to lower, to degrade",
+            " .  (Qq )."
+          ],
+          "expansions": {
+            "Qq": "Quartos"
+          },
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abashed,",
+      "valueKey": "Abashed",
+      "schmidt": [
+        {
+          "parts": [
+            "made ashamed",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abate,",
+      "valueKey": "Abate",
+      "schmidt": [
+        {
+          "parts": [
+            "(cf. ) 1) tr. a) to beat down, to overthrow, to humble",
+            " .b) to weaken, to diminish",
+            " . .  ( == shorten). .  . . . ."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Tp. IV, 56",
+            "n": "shak. tmp 4.56",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tmp",
+            "act": 4,
+            "scene": 56,
+            "lines": null,
+            "nField": "shak. tmp 4.56",
+            "biblText": "Tp. IV, 56",
+            "playName": "The Tempest"
+          }
+        },
+        {
+          "parts": [
+            "c) to blunt, to take off the edge of",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Mids. III, 2, 432",
+            "n": "shak. mnd 3.2.432",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mnd",
+            "act": 3,
+            "scene": 2,
+            "lines": 432,
+            "nField": "shak. mnd 3.2.432",
+            "biblText": "Mids. III, 2, 432",
+            "playName": "A Midsummer Night's Dream"
+          }
+        },
+        {
+          "parts": [
+            "d) to reduce in estimation",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Merch. V, 198",
+            "n": "shak. mv 5.198",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mv",
+            "act": 5,
+            "scene": 198,
+            "lines": null,
+            "nField": "shak. mv 5.198",
+            "biblText": "Merch. V, 198",
+            "playName": "The Merchant of Venice"
+          }
+        },
+        {
+          "parts": [
+            "e) to deduct, to except",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Shr. Ind. 1, 137.",
+            "n": "shak. mv 5.1.137",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mv",
+            "act": 5,
+            "scene": 1,
+            "lines": 137,
+            "nField": "shak. mv 5.1.137",
+            "biblText": "Shr. Ind. 1, 137.",
+            "playName": "The Merchant of Venice"
+          }
+        },
+        {
+          "parts": [
+            "f) to curtail, with ",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H5 III, 2, 24",
+            "n": "shak. h5 3.2.24",
+            "default": "NO",
+            "valid": "yes",
+            "play": "h5",
+            "act": 3,
+            "scene": 2,
+            "lines": 24,
+            "nField": "shak. h5 3.2.24",
+            "biblText": "H5 III, 2, 24",
+            "playName": "h5"
+          }
+        },
+        {
+          "parts": [
+            "2) intr. (used by none but Pistol), to decrease",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Tit. I, 43",
+            "n": "shak. tit 1.43",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tit",
+            "act": 1,
+            "scene": 43,
+            "lines": null,
+            "nField": "shak. tit 1.43",
+            "biblText": "Tit. I, 43",
+            "playName": "Titus Andronicus"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abatement,",
+      "valueKey": "Abatement",
+      "schmidt": [
+        {
+          "parts": [
+            "1) diminution, debilitation",
+            "  (cf. ). . .2) lower estimation",
+            " ."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Hml. IV, 7, 121",
+            "n": "shak. ham 4.7",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ham",
+            "act": 4,
+            "scene": 7,
+            "lines": 121,
+            "nField": "shak. ham 4.7",
+            "biblText": "Hml. IV, 7, 121",
+            "playName": "Hamlet"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abbess,",
+      "valueKey": "Abbess",
+      "schmidt": [
+        {
+          "parts": [
+            "the governess of a nunnery",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Err. V, 117",
+            "n": "shak. err 5.1.117",
+            "default": "NO",
+            "valid": "yes",
+            "play": "err",
+            "act": 5,
+            "scene": 1,
+            "lines": 117,
+            "nField": "shak. err 5.1.117",
+            "biblText": "Err. V, 117",
+            "playName": "The Comedy of Errors"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abbey,",
+      "valueKey": "Abbey",
+      "schmidt": [
+        {
+          "parts": [
+            "a convent governed by an abbot or abbess",
+            " .      . .  (== Westminster A.). ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Err. V, 122",
+            "n": "shak. err 5.1.122",
+            "default": "NO",
+            "valid": "yes",
+            "play": "err",
+            "act": 5,
+            "scene": 1,
+            "lines": 122,
+            "nField": "shak. err 5.1.122",
+            "biblText": "Err. V, 122",
+            "playName": "The Comedy of Errors"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abbey-gate,",
+      "valueKey": "Abbey-gate",
+      "schmidt": [
+        {
+          "parts": [
+            "the gate of an abbey",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Err. V, 165",
+            "n": "shak. err 5.1.165",
+            "default": "NO",
+            "valid": "yes",
+            "play": "err",
+            "act": 5,
+            "scene": 1,
+            "lines": 165,
+            "nField": "shak. err 5.1.165",
+            "biblText": "Err. V, 165",
+            "playName": "The Comedy of Errors"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abbey-wall,",
+      "valueKey": "Abbey-wall",
+      "schmidt": [
+        {
+          "parts": [
+            "a wall enclosing an abbey",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Gent. V, 1, 9",
+            "n": "shak. tgv 5.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tgv",
+            "act": 5,
+            "scene": 1,
+            "lines": 9,
+            "nField": "shak. tgv 5.1",
+            "biblText": "Gent. V, 1, 9",
+            "playName": "tgv"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abbot,",
+      "valueKey": "Abbot",
+      "schmidt": [
+        {
+          "parts": [
+            "the governor of a monastery",
+            " . . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "John III, 3, 8",
+            "n": "shak. jn 3.3",
+            "default": "NO",
+            "valid": "yes",
+            "play": "jn",
+            "act": 3,
+            "scene": 3,
+            "lines": 8,
+            "nField": "shak. jn 3.3",
+            "biblText": "John III, 3, 8",
+            "playName": "jn"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abbreviate,",
+      "valueKey": "Abbreviate",
+      "schmidt": [
+        {
+          "parts": [
+            "to abridge, to reduce to a smaller form (used only by Holophernes)",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "A B C,",
+      "valueKey": "A B C",
+      "schmidt": [
+        {
+          "parts": [
+            "the alphabet,  (cf. )."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Gent. II, 1, 23",
+            "n": "shak. tgv 2.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tgv",
+            "act": 2,
+            "scene": 1,
+            "lines": 23,
+            "nField": "shak. tgv 2.1",
+            "biblText": "Gent. II, 1, 23",
+            "playName": "tgv"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "A-bed,",
+      "valueKey": "A-bed",
+      "schmidt": [
+        {
+          "parts": [
+            "(O. Edd. not hyphened) 1) in bed",
+            " . . . . . . . .  (Ff ). .2) to bed",
+            "  == delivered, ."
+          ],
+          "expansions": {
+            "Ff": "First Folio"
+          },
+          "bibl": {
+            "text": "As II, 2, 6",
+            "n": "shak. ayl 2.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ayl",
+            "act": 2,
+            "scene": 2,
+            "lines": 6,
+            "nField": "shak. ayl 2.2",
+            "biblText": "As II, 2, 6",
+            "playName": "As You Like It"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abel,",
+      "valueKey": "Abel",
+      "schmidt": [
+        {
+          "parts": [
+            "the second son of Adam slain by Cain",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "R2 I, 1, 104",
+            "n": "shak. r2 1.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "r2",
+            "act": 1,
+            "scene": 1,
+            "lines": 104,
+            "nField": "shak. r2 1.1",
+            "biblText": "R2 I, 1, 104",
+            "playName": "Richard II"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abergany,",
+      "valueKey": "Abergany",
+      "schmidt": [
+        {
+          "parts": [
+            "(O. Edd.  M. Edd. ), a name",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H8 I, 1, 211",
+            "n": "shak. h8 1.1.211",
+            "default": "NO",
+            "valid": "yes",
+            "play": "h8",
+            "act": 1,
+            "scene": 1,
+            "lines": 211,
+            "nField": "shak. h8 1.1.211",
+            "biblText": "H8 I, 1, 211",
+            "playName": "Henry VIII"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abet,",
+      "valueKey": "Abet",
+      "schmidt": [
+        {
+          "parts": [
+            "to assist (in a bad sense), to instigate",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Err. II, 2, 172",
+            "n": "shak. err 2.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "err",
+            "act": 2,
+            "scene": 2,
+            "lines": 172,
+            "nField": "shak. err 2.2",
+            "biblText": "Err. II, 2, 172",
+            "playName": "The Comedy of Errors"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abettor,",
+      "valueKey": "Abettor",
+      "schmidt": [
+        {
+          "parts": [
+            "instigator",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Lucr. 886",
+            "n": "shak. luc",
+            "default": "NO",
+            "valid": "yes",
+            "play": "luc",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "nField": "shak. luc",
+            "biblText": "Lucr. 886",
+            "playName": "luc"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abhominable,",
+      "valueKey": "Abhominable",
+      "schmidt": [
+        {
+          "parts": [
+            "the correct spelling, in Holophernes' opinion, of  (quasi inhuman!). cf."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abhor,",
+      "valueKey": "Abhor",
+      "schmidt": [
+        {
+          "parts": [
+            "1) to detest to extremity, to loathe; with an accus.",
+            " . .  .  . . . . . . . . . . . . . . . . . . With an inf.",
+            " . . .Part.  adjectively, == detested, abominable",
+            " .  . . . . . . . . . .  . . . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Ven. 138",
+            "n": "shak. ven ven",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ven",
+            "act": null,
+            "scene": null,
+            "lines": null,
+            "nField": "shak. ven ven",
+            "biblText": "Ven. 138",
+            "playName": "ven"
+          }
+        },
+        {
+          "parts": [
+            "2) to protest against, to refuse as a judge",
+            " . Hence in comical imitation of the judicial language",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Lucr. 195",
+            "n": "shak. luc",
+            "default": "NO",
+            "valid": "yes",
+            "play": "luc",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "nField": "shak. luc",
+            "biblText": "Lucr. 195",
+            "playName": "luc"
+          }
+        },
+        {
+          "parts": [
+            "3) to fill with horror and loathing",
+            "  (Qq and M. Edd. ). ."
+          ],
+          "expansions": {
+            "Qq": "Quartos"
+          },
+          "bibl": {
+            "text": "Lucr. 195",
+            "n": "shak. luc",
+            "default": "NO",
+            "valid": "yes",
+            "play": "luc",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "nField": "shak. luc",
+            "biblText": "Lucr. 195",
+            "playName": "luc"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abhorring,",
+      "valueKey": "Abhorring",
+      "schmidt": [
+        {
+          "parts": [
+            "subst. abomination",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abhorson,",
+      "valueKey": "Abhorson",
+      "schmidt": [
+        {
+          "parts": [
+            "name of the executioner in . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Meas. IV, 2, 20",
+            "n": "shak. mm 4.2.20",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mm",
+            "act": 4,
+            "scene": 2,
+            "lines": 20,
+            "nField": "shak. mm 4.2.20",
+            "biblText": "Meas. IV, 2, 20",
+            "playName": "Measure for Measure"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abide,",
+      "valueKey": "Abide",
+      "schmidt": [
+        {
+          "parts": [
+            "(used only in the pres. and inf.) 1) intr. a) to stay for a time",
+            " . . . . .  . . . . . . . . Distinguished from  as indicating a transient residence",
+            " .b) to remain, not to depart",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Compl. 83",
+            "n": "shak. lc 83",
+            "default": "NO",
+            "valid": "yes",
+            "play": "lc",
+            "act": 83,
+            "scene": null,
+            "lines": null,
+            "nField": "shak. lc 83",
+            "biblText": "Compl. 83",
+            "playName": "lc"
+          }
+        },
+        {
+          "parts": [
+            "c) to continue in a state",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Meas. IV, 2, 26",
+            "n": "shak. mm 4.2.26",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mm",
+            "act": 4,
+            "scene": 2,
+            "lines": 26,
+            "nField": "shak. mm 4.2.26",
+            "biblText": "Meas. IV, 2, 26",
+            "playName": "Measure for Measure"
+          }
+        },
+        {
+          "parts": [
+            "d) to dwell, to be inherent, as a gift or quality",
+            "  (comfort) . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "V, 252",
+            "n": "shak. mm 5.252.26",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mm",
+            "act": 5,
+            "scene": 252,
+            "lines": 26,
+            "nField": "shak. mm 5.252.26",
+            "biblText": "V, 252",
+            "playName": "Measure for Measure"
+          }
+        },
+        {
+          "parts": [
+            "e) to stand one's ground, not to flinch or fly",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "V, 252",
+            "n": "shak. mm 5.252.26",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mm",
+            "act": 5,
+            "scene": 252,
+            "lines": 26,
+            "nField": "shak. mm 5.252.26",
+            "biblText": "V, 252",
+            "playName": "Measure for Measure"
+          }
+        },
+        {
+          "parts": [
+            "2) trans. a) to await (cf. )",
+            " ."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Merch. III, 4, 42",
+            "n": "shak. mv 3.4",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mv",
+            "act": 3,
+            "scene": 4,
+            "lines": 42,
+            "nField": "shak. mv 3.4",
+            "biblText": "Merch. III, 4, 42",
+            "playName": "The Merchant of Venice"
+          }
+        },
+        {
+          "parts": [
+            "b) to endure, to undergo, to suffer",
+            " . . . . . . Oftener with a negative, == not to bear, not to endure",
+            " . . Especially after  and ",
+            "  Tp. ,  .   . . . . . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "R3 IV, 2, 49",
+            "n": "shak. r3 4.2.49",
+            "default": "NO",
+            "valid": "yes",
+            "play": "r3",
+            "act": 4,
+            "scene": 2,
+            "lines": 49,
+            "nField": "shak. r3 4.2.49",
+            "biblText": "R3 IV, 2, 49",
+            "playName": "Richard III"
+          }
+        },
+        {
+          "parts": [
+            "c) to meet in combat, to stand, to defy . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Tim. V, 1, 2",
+            "n": "shak. tim 5.1.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tim",
+            "act": 5,
+            "scene": 1,
+            "lines": 2,
+            "nField": "shak. tim 5.1.2",
+            "biblText": "Tim. V, 1, 2",
+            "playName": "Timon of Athens"
+          }
+        },
+        {
+          "parts": [
+            "d) to answer for, to stand the consequences of",
+            "  (Q ). . ."
+          ],
+          "expansions": {
+            "Q": "Quarto"
+          },
+          "bibl": {
+            "text": "Mcb. III, 1, 140",
+            "n": "shak. mac 3.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mac",
+            "act": 3,
+            "scene": 1,
+            "lines": 140,
+            "nField": "shak. mac 3.1",
+            "biblText": "Mcb. III, 1, 140",
+            "playName": "Macbeth"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Ability,",
+      "valueKey": "Ability",
+      "schmidt": [
+        {
+          "parts": [
+            "1) power to perform",
+            " . . . . . Plur",
+            " . .  (means of resistance). .2) capacity, skill",
+            "  etc. . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "V, 1, 143",
+            "n": "shak. wt 5.1.143",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wt",
+            "act": 5,
+            "scene": 1,
+            "lines": 143,
+            "nField": "shak. wt 5.1.143",
+            "biblText": "V, 1, 143",
+            "playName": "The Winter's Tale"
+          }
+        },
+        {
+          "parts": [
+            "3) wealth, means, a state of being provided with something",
+            " . . . Quibbling in ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Troil. III, 2, 92",
+            "n": "shak. tro 3.2.92",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tro",
+            "act": 3,
+            "scene": 2,
+            "lines": 92,
+            "nField": "shak. tro 3.2.92",
+            "biblText": "Troil. III, 2, 92",
+            "playName": "Troilus and Cressida"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Ábject,",
+      "valueKey": "Abject1",
+      "schmidt": [
+        {
+          "parts": [
+            "adj., mean, despicable",
+            " .  .  . . . . . .  , i. e. the object of his contempt."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Err. IV, 4",
+            "n": "shak. err 4.4",
+            "default": "NO",
+            "valid": "yes",
+            "play": "err",
+            "act": 4,
+            "scene": 4,
+            "lines": null,
+            "nField": "shak. err 4.4",
+            "biblText": "Err. IV, 4",
+            "playName": "The Comedy of Errors"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abjéct,",
+      "valueKey": "Abject2",
+      "schmidt": [
+        {
+          "parts": [
+            "subst., a castaway",
+            " .*"
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Ábjectly,",
+      "valueKey": "bjectly",
+      "schmidt": [
+        {
+          "parts": [
+            "basely",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abjure,",
+      "valueKey": "Abjure",
+      "schmidt": [
+        {
+          "parts": [
+            "1) to renounce upon oath",
+            " . . . . .2) to recant upon oath",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Mids. I, 1, 65",
+            "n": "shak. mnd 1.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mnd",
+            "act": 1,
+            "scene": 1,
+            "lines": 65,
+            "nField": "shak. mnd 1.1",
+            "biblText": "Mids. I, 1, 65",
+            "playName": "A Midsummer Night's Dream"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Able,",
+      "valueKey": "Able1",
+      "schmidt": [
+        {
+          "parts": [
+            "adj. 1) having the power or means; followed by an inf. expressed or understood",
+            " . . . .  . . . . . . . . . . . . . . . . . . .  .  . .  . . . . . . . . . . . . . . . . Comp. . Irreg. expr.",
+            " .2) absol. a) vigorous, active",
+            " . . . . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Gent. II, 3, 58",
+            "n": "shak. tgv 2.3",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tgv",
+            "act": 2,
+            "scene": 3,
+            "lines": 58,
+            "nField": "shak. tgv 2.3",
+            "biblText": "Gent. II, 3, 58",
+            "playName": "tgv"
+          }
+        },
+        {
+          "parts": [
+            "b) skilful, clever",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Wiv. I, 1, 54",
+            "n": "shak. wiv 1.1.54",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wiv",
+            "act": 1,
+            "scene": 1,
+            "lines": 54,
+            "nField": "shak. wiv 1.1.54",
+            "biblText": "Wiv. I, 1, 54",
+            "playName": "The Merry Wives of Windsor"
+          }
+        },
+        {
+          "parts": [
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "IV, 5, 111",
+            "n": "shak. wiv 4.5.111",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wiv",
+            "act": 4,
+            "scene": 5,
+            "lines": 111,
+            "nField": "shak. wiv 4.5.111",
+            "biblText": "IV, 5, 111",
+            "playName": "The Merry Wives of Windsor"
+          }
+        },
+        {
+          "parts": [
+            "c) competent, sufficient, equal",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "V, 5, 142",
+            "n": "shak. wiv 5.5.142",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wiv",
+            "act": 5,
+            "scene": 5,
+            "lines": 142,
+            "nField": "shak. wiv 5.5.142",
+            "biblText": "V, 5, 142",
+            "playName": "The Merry Wives of Windsor"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Able,",
+      "valueKey": "Able2",
+      "schmidt": [
+        {
+          "parts": [
+            "vb. (cf. Nares' Glossary) to warrant, to answer for",
+            " ."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Aboard,",
+      "valueKey": "Aboard",
+      "schmidt": [
+        {
+          "parts": [
+            "1) absol. a) in a ship",
+            " . . . . . b) into a ship",
+            " . . .  . . .  .  . . . . . . .  .   == to board, to grapple",
+            " .  (== boarding the conquered vessel).2) with an accus., always replying to the question ",
+            " . . . .  == a. his ship",
+            " . .  (Ff )."
+          ],
+          "expansions": {
+            "Ff": "First Folio"
+          },
+          "bibl": {
+            "text": "Tp. I, 1, 21",
+            "n": "shak. tmp 1.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tmp",
+            "act": 1,
+            "scene": 1,
+            "lines": 21,
+            "nField": "shak. tmp 1.1",
+            "biblText": "Tp. I, 1, 21",
+            "playName": "The Tempest"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abode,",
+      "valueKey": "Abode1",
+      "schmidt": [
+        {
+          "parts": [
+            "subst., stay, continuance in a place",
+            " . . .  (for my being so late).  (desire him to stay, to remain where etc.).  == to dwell, to live",
+            " . . .  ()."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "R3 I, 3, 169",
+            "n": "shak. r3 1.3.169",
+            "default": "NO",
+            "valid": "yes",
+            "play": "r3",
+            "act": 1,
+            "scene": 3,
+            "lines": 169,
+            "nField": "shak. r3 1.3.169",
+            "biblText": "R3 I, 3, 169",
+            "playName": "Richard III"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abode,",
+      "valueKey": "Abode2",
+      "schmidt": [
+        {
+          "parts": [
+            "vb. tr. to foreshow, in a bad sense",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H6C V, 6, 45",
+            "n": "shak. 3h6 5.6.45",
+            "default": "NO",
+            "valid": "yes",
+            "play": "3h6",
+            "act": 5,
+            "scene": 6,
+            "lines": 45,
+            "nField": "shak. 3h6 5.6.45",
+            "biblText": "H6C V, 6, 45",
+            "playName": "Henry VI, Part 3"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abodement,",
+      "valueKey": "Abodement",
+      "schmidt": [
+        {
+          "parts": [
+            "omen, in a bad sense",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H6C IV, 7, 13",
+            "n": "shak. 3h6 4.7.13",
+            "default": "NO",
+            "valid": "yes",
+            "play": "3h6",
+            "act": 4,
+            "scene": 7,
+            "lines": 13,
+            "nField": "shak. 3h6 4.7.13",
+            "biblText": "H6C IV, 7, 13",
+            "playName": "Henry VI, Part 3"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abominable,",
+      "valueKey": "Abominable",
+      "schmidt": [
+        {
+          "parts": [
+            "(spelt throughout  in F) detestable, execrable",
+            " . . . . . . . . . . . . . . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Tp. II, 2, 163",
+            "n": "shak. tmp 2.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tmp",
+            "act": 2,
+            "scene": 2,
+            "lines": 163,
+            "nField": "shak. tmp 2.2",
+            "biblText": "Tp. II, 2, 163",
+            "playName": "The Tempest"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abominably,",
+      "valueKey": "Abominably",
+      "schmidt": [
+        {
+          "parts": [
+            "detestably",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Hml. III, 2, 39",
+            "n": "shak. ham 3.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ham",
+            "act": 3,
+            "scene": 2,
+            "lines": 39,
+            "nField": "shak. ham 3.2",
+            "biblText": "Hml. III, 2, 39",
+            "playName": "Hamlet"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abomination,",
+      "valueKey": "Abomination",
+      "schmidt": [
+        {
+          "parts": [
+            "1) detestableness",
+            " .2) any thing detestable",
+            " .  . (F )."
+          ],
+          "expansions": {
+            "F": "Folios"
+          },
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abortive,",
+      "valueKey": "Abortive1",
+      "schmidt": [
+        {
+          "parts": [
+            "adj. 1) born before the due time",
+            " .2) monstrous, unnatural",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "I, 3, 228",
+            "n": "shak. r3 1.3.228",
+            "default": "NO",
+            "valid": "yes",
+            "play": "r3",
+            "act": 1,
+            "scene": 3,
+            "lines": 228,
+            "nField": "shak. r3 1.3.228",
+            "biblText": "I, 3, 228",
+            "playName": "Richard III"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abortive,",
+      "valueKey": "Abortive2",
+      "schmidt": [
+        {
+          "parts": [
+            "subst. monstrous birth",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Abound,",
+      "valueKey": "Abound",
+      "schmidt": [
+        {
+          "parts": [
+            "1) to live in wealth and plenty",
+            " .2) with  to be copiously stored with",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Mcb. IV, 3, 95",
+            "n": "shak. mac 4.3.95",
+            "default": "NO",
+            "valid": "yes",
+            "play": "mac",
+            "act": 4,
+            "scene": 3,
+            "lines": 95,
+            "nField": "shak. mac 4.3.95",
+            "biblText": "Mcb. IV, 3, 95",
+            "playName": "Macbeth"
+          }
+        },
+        {
+          "parts": [
+            "3) to be in great plenty",
+            " . .  (Qq ). . ."
+          ],
+          "expansions": {
+            "Qq": "Quartos"
+          },
+          "bibl": {
+            "text": "H5 III, 2, 7",
+            "n": "shak. h5 3.2.7",
+            "default": "NO",
+            "valid": "yes",
+            "play": "h5",
+            "act": 3,
+            "scene": 2,
+            "lines": 7,
+            "nField": "shak. h5 3.2.7",
+            "biblText": "H5 III, 2, 7",
+            "playName": "h5"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "About,",
+      "valueKey": "About1",
+      "schmidt": [
+        {
+          "parts": [
+            "prepos. 1) round",
+            " . .  . . . . . . . . .  etc. . . . . . .2) near to a person",
+            " . . . . . . . . . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Err. V, 10",
+            "n": "shak. err 5.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "err",
+            "act": 5,
+            "scene": 1,
+            "lines": null,
+            "nField": "shak. err 5.1",
+            "biblText": "Err. V, 10",
+            "playName": "The Comedy of Errors"
+          }
+        },
+        {
+          "parts": [
+            "3) carried by, or appendant to, a person",
+            " . . .  . . .  (is not yet obsolete with me). . . . . . . . . . . . .  etc."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Tp. III, 2, 147",
+            "n": "shak. tmp 3.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tmp",
+            "act": 3,
+            "scene": 2,
+            "lines": 147,
+            "nField": "shak. tmp 3.2",
+            "biblText": "Tp. III, 2, 147",
+            "playName": "The Tempest"
+          }
+        },
+        {
+          "parts": [
+            "4) anywhere, here or there within a certain locality",
+            " . .  (anywhere in the house). .  . . . . . .  == throughout",
+            " . . . cf. , i. e. through thick and thin."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "As III, 2, 191",
+            "n": "shak. ayl 3.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ayl",
+            "act": 3,
+            "scene": 2,
+            "lines": 191,
+            "nField": "shak. ayl 3.2",
+            "biblText": "As III, 2, 191",
+            "playName": "As You Like It"
+          }
+        },
+        {
+          "parts": [
+            "5) near in size, quantity, or time",
+            " .  . . . . . . .  .  etc."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Shr. I, 2, 141",
+            "n": "shak. shr 1.2.141",
+            "default": "NO",
+            "valid": "yes",
+            "play": "shr",
+            "act": 1,
+            "scene": 2,
+            "lines": 141,
+            "nField": "shak. shr 1.2.141",
+            "biblText": "Shr. I, 2, 141",
+            "playName": "The Taming of the Shrew"
+          }
+        },
+        {
+          "parts": [
+            "6) in a state of being engaged in, or intent on",
+            " .  . . .  (watch all the town carefully).  == he is doing it, . .  (== I will fall to work). . . . . . . . . . .  (== at him! take him to task!). .  . . . .  == to get one's self ready for, to be going to do",
+            " . . . . . . . . .  (I'll resolutelv try my fortune with her). . . . cf. . ."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "II, 302",
+            "n": "shak. shr 2.302.141",
+            "default": "NO",
+            "valid": "yes",
+            "play": "shr",
+            "act": 2,
+            "scene": 302,
+            "lines": 141,
+            "nField": "shak. shr 2.302.141",
+            "biblText": "II, 302",
+            "playName": "The Taming of the Shrew"
+          }
+        },
+        {
+          "parts": [
+            "7) concerning, relating to, with regard to",
+            " . . .  . . . . . . . .  etc."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H5 V, 2, 190",
+            "n": "shak. h5 5.2",
+            "default": "NO",
+            "valid": "yes",
+            "play": "h5",
+            "act": 5,
+            "scene": 2,
+            "lines": 190,
+            "nField": "shak. h5 5.2",
+            "biblText": "H5 V, 2, 190",
+            "playName": "h5"
+          }
+        },
+        {
+          "parts": [
+            "8) on account of",
+            " . . . . . . . . . . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H6C V, 1, 108",
+            "n": "shak. 3h6 5.1.108",
+            "default": "NO",
+            "valid": "yes",
+            "play": "3h6",
+            "act": 5,
+            "scene": 1,
+            "lines": 108,
+            "nField": "shak. 3h6 5.1.108",
+            "biblText": "H6C V, 1, 108",
+            "playName": "Henry VI, Part 3"
+          }
+        },
+        {
+          "parts": [
+            "Transposed",
+            "  == a. the house, Per. III, Prol. 2 (Gower's speech)."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H8 V, 5, 55",
+            "n": "shak. h8 5.5.55",
+            "default": "NO",
+            "valid": "yes",
+            "play": "h8",
+            "act": 5,
+            "scene": 5,
+            "lines": 55,
+            "nField": "shak. h8 5.5.55",
+            "biblText": "H8 V, 5, 55",
+            "playName": "Henry VIII"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "About,",
+      "valueKey": "About2",
+      "schmidt": [
+        {
+          "parts": [
+            "adv. 1) round, circularly",
+            " . . .2) round, on every side",
+            " . . . . . . . ",
+            " . . . . .  == a) to look on all sides, or in different directions",
+            " . b) to be on the watch",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "I, 3, 46",
+            "n": "shak. wiv 1.3.46",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wiv",
+            "act": 1,
+            "scene": 3,
+            "lines": 46,
+            "nField": "shak. wiv 1.3.46",
+            "biblText": "I, 3, 46",
+            "playName": "The Merry Wives of Windsor"
+          }
+        },
+        {
+          "parts": [
+            "3) by a circuitous way",
+            " . . . Metaphorically.  (do not shuffle, use no quibbling). . . cf. ."
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "John II, 217",
+            "n": "shak. jn 2.217",
+            "default": "NO",
+            "valid": "yes",
+            "play": "jn",
+            "act": 2,
+            "scene": 217,
+            "lines": null,
+            "nField": "shak. jn 2.217",
+            "biblText": "John II, 217",
+            "playName": "jn"
+          }
+        },
+        {
+          "parts": [
+            "4) here and there, up and down",
+            " . . . . .  etc. , i. e. here and there, in divers places."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H6C IV, 2, 15",
+            "n": "shak. 3h6 4.2.15",
+            "default": "NO",
+            "valid": "yes",
+            "play": "3h6",
+            "act": 4,
+            "scene": 2,
+            "lines": 15,
+            "nField": "shak. 3h6 4.2.15",
+            "biblText": "H6C IV, 2, 15",
+            "playName": "Henry VI, Part 3"
+          }
+        },
+        {
+          "parts": [
+            "5) to a certain point, to an appointed or desired place",
+            "  (i. e. to the appointed place).  (accomplished).  (has become favourable).  (come to pass, be effected). ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "R3 I, 4, 59",
+            "n": "shak. r3 1.4.59",
+            "default": "NO",
+            "valid": "yes",
+            "play": "r3",
+            "act": 1,
+            "scene": 4,
+            "lines": 59,
+            "nField": "shak. r3 1.4.59",
+            "biblText": "R3 I, 4, 59",
+            "playName": "Richard III"
+          }
+        },
+        {
+          "parts": [
+            "6) upon the point, ready, going",
+            " . . . . . . .  etc.  (== what will become of this?)  == to be going, to have in hand, to make it one's task",
+            " . . . . . . . .  . .  (== I will go to work with him, he shall find his match in me) .  == to prepare, to arrange",
+            " .  == to work! be not idle! . . .  (he would go on with a vengeance)."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Hml. I, 5, 71",
+            "n": "shak. ham 1.5.71",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ham",
+            "act": 1,
+            "scene": 5,
+            "lines": 71,
+            "nField": "shak. ham 1.5.71",
+            "biblText": "Hml. I, 5, 71",
+            "playName": "Hamlet"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Above,",
+      "valueKey": "Above1",
+      "schmidt": [
+        {
+          "parts": [
+            "adv. 1) in a higher place, overhead; a) in heaven",
+            " . . . . . . . . . . . . . . . . .b) upstairs",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Tp. I, 1, 71",
+            "n": "shak. tmp 1.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tmp",
+            "act": 1,
+            "scene": 1,
+            "lines": 71,
+            "nField": "shak. tmp 1.1",
+            "biblText": "Tp. I, 1, 71",
+            "playName": "The Tempest"
+          }
+        },
+        {
+          "parts": [
+            "2) besides (when joined to  and )",
+            " . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Wiv. I, 4, 154",
+            "n": "shak. wiv 1.4.154",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wiv",
+            "act": 1,
+            "scene": 4,
+            "lines": 154,
+            "nField": "shak. wiv 1.4.154",
+            "biblText": "Wiv. I, 4, 154",
+            "playName": "The Merry Wives of Windsor"
+          }
+        }
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
+    }
+  ],
+  [
+    {
+      "type": "main",
+      "opt": "n",
+      "value": "Above,",
+      "valueKey": "Above2",
+      "schmidt": [
+        {
+          "parts": [
+            "prepos. 1) in or to a higher place; a) over",
+            " . . . . . .  (viz the waist) .  (on thy head).b) overhead",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Lr. IV, 6, 127",
+            "n": "shak. lr 4.6",
+            "default": "NO",
+            "valid": "yes",
+            "play": "lr",
+            "act": 4,
+            "scene": 6,
+            "lines": 127,
+            "nField": "shak. lr 4.6",
+            "biblText": "Lr. IV, 6, 127",
+            "playName": "King Lear"
+          }
+        },
+        {
+          "parts": [
+            "c) comparatively higher, in a proper and figurative sense",
+            " . . .  . . . .  .  . . . . . . .   . . . .  == above all (which expression is yet unknown to Sh.)",
+            " . . ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Tp. I, 2, 168",
+            "n": "shak. tmp 1.2.168",
+            "default": "NO",
+            "valid": "yes",
+            "play": "tmp",
+            "act": 1,
+            "scene": 2,
+            "lines": 168,
+            "nField": "shak. tmp 1.2.168",
+            "biblText": "Tp. I, 2, 168",
+            "playName": "The Tempest"
+          }
+        },
+        {
+          "parts": [
+            "2) more than",
+            " . . . . .  (viz Paris). .  == besides",
+            " ."
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "LLL IV, 3, 332",
+            "n": "shak. lll 4.3.332",
+            "default": "NO",
+            "valid": "yes",
+            "play": "lll",
+            "act": 4,
+            "scene": 3,
+            "lines": 332,
+            "nField": "shak. lll 4.3.332",
+            "biblText": "LLL IV, 3, 332",
+            "playName": "Love's Labour's Lost"
           }
         }
       ],
