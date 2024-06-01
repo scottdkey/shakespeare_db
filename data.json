@@ -1,1736 +1,565 @@
 [
   [
     {
-      "key": "A1",
       "type": "main",
       "opt": "n",
-      "text": "the first letter of the alphabet : . sq .",
-      "orth": "A ,",
-      "orthExtent": "full",
-      "orthOpt": "n",
-      "bibl": [
+      "value": "A,",
+      "valueKey": "A1",
+      "schmidt": [
         {
-          "text": "LLL V , 1 , 50",
-          "n": "shak. lll 5.1.50",
-          "default": "NO",
-          "valid": "yes",
-          "play": "LLL",
-          "act": "V",
-          "scene": "1",
-          "lines": "50"
-        },
-        {
-          "text": "LLL V , 1 , 50",
-          "n": "shak. lll 5.1.50",
-          "default": "NO",
-          "valid": "yes",
-          "play": "LLL",
-          "act": "V",
-          "scene": "1",
-          "lines": "50"
-        },
-        {
-          "text": "Tw . II , 5 , 118",
-          "n": "shak. tn 2.5",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tw.",
-          "act": "II",
-          "scene": "5",
-          "lines": "118"
+          "parts": [
+            "the first letter of the alphabet",
+            "sq"
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "LLL V, 1, 50",
+            "n": "shak. lll 5.1.50",
+            "default": "NO",
+            "valid": "yes",
+            "play": "lll",
+            "act": 5,
+            "scene": 1,
+            "lines": 50,
+            "nField": "shak. lll 5.1.50",
+            "biblText": "LLL V, 1, 50",
+            "playName": "Love's Labour's Lost"
+          }
         }
-      ]
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
     }
   ],
   [
     {
-      "key": "A2",
       "type": "main",
       "opt": "n",
-      "text": "a note in music : .",
-      "orth": "A ,",
-      "orthExtent": "full",
-      "orthOpt": "n",
-      "bibl": [
+      "value": "A,",
+      "valueKey": "A2",
+      "schmidt": [
         {
-          "text": "Shr . III , 1 , 74",
-          "n": "shak. shr 3.1.74",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Shr.",
-          "act": "III",
-          "scene": "1",
-          "lines": "74"
+          "parts": [
+            "a note in music",
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Shr III, 1, 74",
+            "n": "shak. shr 3.1.74",
+            "default": "NO",
+            "valid": "yes",
+            "play": "shr",
+            "act": 3,
+            "scene": 1,
+            "lines": 74,
+            "nField": "shak. shr 3.1.74",
+            "biblText": "Shr III, 1, 74",
+            "playName": "The Taming of the Shrew"
+          }
         }
-      ]
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
     }
   ],
   [
     {
-      "key": "A3",
       "type": "main",
       "opt": "n",
-      "text": "or indef . art . , the two forms differing as at present . for : .\n .\n .\n .\n .\n .\n . (Qq . ). \n .\n .\n . (Ff ). \n . . ; cf . . Before generally f . i .\n .\n ; cf . Twice . . before : . Of the original indiscriminate use of before consonants as well as vowels a trace is left in the pun of Mrs Quickly : . Superfluous repetition of the ind . art . before adjectives : .\n .\n .\n . (F ).  . No less before adjectives placed after their substantives : .\n . . As before and (q . v . ) the art . is , though seldom , found before other numerals : . . (Q ).  . Similarly before q . v . Its use after and is in general conformable to the now prevailing rule (f . i .\n ) , and the passage in : cannot be called an exception ; but there are a few instances of its omission : . (Ff ).  . It seems to have strayed from its place in the following expressions : (== so rarely wondered a father , i . e . a father endowed with such a rare power of working miracles). \n cf . ; the phrases etc . being treated as simple words , from which adjectives in might be derived . Similarly placed between comparatives and their substantives : ; especially when preceded by : .\n .\n According to custom , the poet says : (f . i .\n . . ) , but also : . . The art . omitted after and (f . i .\n . ) , even before the object : . . ; cf .\n . . (Qq ).  . etc . Keeping , however , its place , when is but emphatically used for : . cf .\n .\n .\n .\n . Even in : . Its omission in the predicate of rare occurrence : .\n .\n .\n . . cf . H6A V . . Often omitted in comparative sentences , and whenever the respective noun expresses the whole class : .\n .\n .\n .\n .\n .\n .\n .\n .\n . . But also in a particular sense : .\n In an apposition : . Inserted , on the other hand , contrary to the common use : . Used for : . . Oftenest in prepositional phrases : .\n .\n .\n .\n .\n .\n .\n . . Inserted before names serving for war-cries : .\n Before names peculiarly used as appellatives : . .",
-      "orth": "",
+      "value": "",
+      "valueKey": "A3",
+      "schmidt": [
+        {
+          "parts": [
+            "or  indef art , the two forms differing as at present for",
+            "(Qq) (Ff) ; cf Before  generally  f i; cf Twice before",
+            "Of the original indiscriminate use of  before consonants as well as vowels a trace is left in the pun of Mrs Quickly",
+            ""
+          ],
+          "expansions": {
+            "Ff": "First Folio",
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Wint II, 3, 114",
+            "n": "shak. wt 2.3.114",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wt",
+            "act": 2,
+            "scene": 3,
+            "lines": 114,
+            "nField": "shak. wt 2.3.114",
+            "biblText": "Wint II, 3, 114",
+            "playName": "The Winter's Tale"
+          }
+        },
+        {
+          "parts": [
+            "Superfluous repetition of the ind art before adjectives",
+            "(F) No less before adjectives placed after their substantives",
+            ""
+          ],
+          "expansions": {
+            "F": "Folios"
+          },
+          "bibl": {
+            "text": "John III, 1, 175",
+            "n": "shak. jn 3.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "jn",
+            "act": 3,
+            "scene": 1,
+            "lines": 175,
+            "nField": "shak. jn 3.1",
+            "biblText": "John III, 1, 175",
+            "playName": "jn"
+          }
+        },
+        {
+          "parts": [
+            "As before  and  (q v) the art is, though seldom, found before other numerals",
+            "(Q) Similarly before  q v"
+          ],
+          "expansions": {
+            "Q": "Quarto"
+          },
+          "bibl": {
+            "text": "H8 III, 2, 102",
+            "n": "shak. h8 3.2.102",
+            "default": "NO",
+            "valid": "yes",
+            "play": "h8",
+            "act": 3,
+            "scene": 2,
+            "lines": 102,
+            "nField": "shak. h8 3.2.102",
+            "biblText": "H8 III, 2, 102",
+            "playName": "Henry VIII"
+          }
+        },
+        {
+          "parts": [
+            "Its use after  and  is in general conformable to the now prevailing rule (f i ), and the passage in",
+            "cannot be called an exception; but there are a few instances of its omission",
+            "(Ff) It seems to have strayed from its place in the following expressions",
+            "(== so rarely wondered a father, i e a father endowed with such a rare power of working miracles)  cf ; the phrases  etc being treated as simple words, from which adjectives in  might be derived"
+          ],
+          "expansions": {
+            "Ff": "First Folio",
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Ant II, 5, 87",
+            "n": "shak. ant 2.5.87",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ant",
+            "act": 2,
+            "scene": 5,
+            "lines": 87,
+            "nField": "shak. ant 2.5.87",
+            "biblText": "Ant II, 5, 87",
+            "playName": "Antony and Cleopatra"
+          }
+        },
+        {
+          "parts": [
+            "Similarly placed between comparatives and their substantives",
+            "; especially when preceded by",
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "R2 IV, 16",
+            "n": "shak. r2 4.1",
+            "default": "NO",
+            "valid": "yes",
+            "play": "r2",
+            "act": 4,
+            "scene": 1,
+            "lines": null,
+            "nField": "shak. r2 4.1",
+            "biblText": "R2 IV, 16",
+            "playName": "Richard II"
+          }
+        },
+        {
+          "parts": [
+            "According to custom, the poet says",
+            "(f i), but also",
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "H6B IV, 8, 59",
+            "n": "shak. 2h6 4.8",
+            "default": "NO",
+            "valid": "yes",
+            "play": "2h6",
+            "act": 4,
+            "scene": 8,
+            "lines": 59,
+            "nField": "shak. 2h6 4.8",
+            "biblText": "H6B IV, 8, 59",
+            "playName": "Henry VI, Part 2"
+          }
+        },
+        {
+          "parts": [
+            "The art omitted after  and  (f i), even before the object",
+            "; cf (Qq) etc Keeping, however, its place, when  is but emphatically used for",
+            "cf Even in",
+            ""
+          ],
+          "expansions": {
+            "cf.": "compare",
+            "Qq": "Quartos"
+          },
+          "bibl": {
+            "text": "H6C II, 5, 81",
+            "n": "shak. 3h6 2.5.81",
+            "default": "NO",
+            "valid": "yes",
+            "play": "3h6",
+            "act": 2,
+            "scene": 5,
+            "lines": 81,
+            "nField": "shak. 3h6 2.5.81",
+            "biblText": "H6C II, 5, 81",
+            "playName": "Henry VI, Part 3"
+          }
+        },
+        {
+          "parts": [
+            "Its omission in the predicate of rare occurrence",
+            "cf H6A V"
+          ],
+          "expansions": {
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "H8 V, 1, 172",
+            "n": "shak. h8 5.1.172",
+            "default": "NO",
+            "valid": "yes",
+            "play": "h8",
+            "act": 5,
+            "scene": 1,
+            "lines": 172,
+            "nField": "shak. h8 5.1.172",
+            "biblText": "H8 V, 1, 172",
+            "playName": "Henry VIII"
+          }
+        },
+        {
+          "parts": [
+            "Often omitted in comparative sentences, and whenever the respective noun expresses the whole class",
+            "But also in a particular sense",
+            "In an apposition",
+            "Inserted, on the other hand, contrary to the common use",
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Cor IV, 5, 114",
+            "n": "shak. cor 4.5",
+            "default": "NO",
+            "valid": "yes",
+            "play": "cor",
+            "act": 4,
+            "scene": 5,
+            "lines": 114,
+            "nField": "shak. cor 4.5",
+            "biblText": "Cor IV, 5, 114",
+            "playName": "Coriolanus"
+          }
+        },
+        {
+          "parts": [
+            "Used for",
+            "Oftenest in prepositional phrases",
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Caes II, 2, 77",
+            "n": "shak. jc 2.2.77",
+            "default": "NO",
+            "valid": "yes",
+            "play": "jc",
+            "act": 2,
+            "scene": 2,
+            "lines": 77,
+            "nField": "shak. jc 2.2.77",
+            "biblText": "Caes II, 2, 77",
+            "playName": "Julius Caesar"
+          }
+        },
+        {
+          "parts": [
+            "Inserted before names serving for war-cries",
+            "Before names peculiarly used as appellatives",
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "IV, 3, 175",
+            "n": "shak. jc 4.3.175",
+            "default": "NO",
+            "valid": "yes",
+            "play": "jc",
+            "act": 4,
+            "scene": 3,
+            "lines": 175,
+            "nField": "shak. jc 4.3.175",
+            "biblText": "IV, 3, 175",
+            "playName": "Julius Caesar"
+          }
+        }
+      ],
       "orthExtent": null,
-      "orthOpt": null,
-      "bibl": [
-        {
-          "text": "Wint . II , 3 , 114",
-          "n": "shak. wt 2.3.114",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Wint.",
-          "act": "II",
-          "scene": "3",
-          "lines": "114"
-        },
-        {
-          "text": "John III , 1 , 175",
-          "n": "shak. jn 3.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "John",
-          "act": "III",
-          "scene": "1",
-          "lines": "175"
-        },
-        {
-          "text": "H8 III , 2 , 102",
-          "n": "shak. h8 3.2.102",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H8",
-          "act": "III",
-          "scene": "2",
-          "lines": "102"
-        },
-        {
-          "text": "Ant . II , 5 , 87",
-          "n": "shak. ant 2.5.87",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ant.",
-          "act": "II",
-          "scene": "5",
-          "lines": "87"
-        },
-        {
-          "text": "R2 IV , 16",
-          "n": "shak. r2 4.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "R2",
-          "act": "IV",
-          "scene": "16",
-          "lines": ""
-        },
-        {
-          "text": "H6B IV , 8 , 59",
-          "n": "shak. 2h6 4.8",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "IV",
-          "scene": "8",
-          "lines": "59"
-        },
-        {
-          "text": "H6C II , 5 , 81",
-          "n": "shak. 3h6 2.5.81",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6C",
-          "act": "II",
-          "scene": "5",
-          "lines": "81"
-        },
-        {
-          "text": "H8 V , 1 , 172",
-          "n": "shak. h8 5.1.172",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H8",
-          "act": "V",
-          "scene": "1",
-          "lines": "172"
-        },
-        {
-          "text": "Cor . IV , 5 , 114",
-          "n": "shak. cor 4.5",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Cor.",
-          "act": "IV",
-          "scene": "5",
-          "lines": "114"
-        },
-        {
-          "text": "Caes . II , 2 , 77",
-          "n": "shak. jc 2.2.77",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Caes.",
-          "act": "II",
-          "scene": "2",
-          "lines": "77"
-        },
-        {
-          "text": "IV , 3 , 175",
-          "n": "shak. jc 4.3.175",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "3",
-          "scene": "175",
-          "lines": ""
-        },
-        {
-          "text": "Hml . II , 2 , 383",
-          "n": "shak. ham 2.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "II",
-          "scene": "2",
-          "lines": "383"
-        },
-        {
-          "text": "Lr . I , 1 , 135",
-          "n": "shak. lr 1.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Lr.",
-          "act": "I",
-          "scene": "1",
-          "lines": "135"
-        },
-        {
-          "text": "H4B II , 2 , 64",
-          "n": "shak. 2h4 2.2.64",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4B",
-          "act": "II",
-          "scene": "2",
-          "lines": "64"
-        },
-        {
-          "text": "Per . I , 1 , 122",
-          "n": "shak. per 1.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Per.",
-          "act": "I",
-          "scene": "1",
-          "lines": "122"
-        },
-        {
-          "text": "H6B IV , 2 , 175",
-          "n": "shak. 2h6 4.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "IV",
-          "scene": "2",
-          "lines": "175"
-        },
-        {
-          "text": "Cor . III , 2 , 114",
-          "n": "shak. cor 3.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Cor.",
-          "act": "III",
-          "scene": "2",
-          "lines": "114"
-        },
-        {
-          "text": "Tit . II , 3 , 128",
-          "n": "shak. tit 2.3.128",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tit.",
-          "act": "II",
-          "scene": "3",
-          "lines": "128"
-        },
-        {
-          "text": "Ant . II , 5 , 5",
-          "n": "shak. ant 2.5",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ant.",
-          "act": "II",
-          "scene": "5",
-          "lines": "5"
-        },
-        {
-          "text": "III , 7 , 15",
-          "n": "shak. ant 3.7",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "7",
-          "scene": "15",
-          "lines": ""
-        },
-        {
-          "text": "Caes . I , 1 , 49",
-          "n": "shak. jc 1.1.49",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Caes.",
-          "act": "I",
-          "scene": "1",
-          "lines": "49"
-        },
-        {
-          "text": "Oth . I , 3 , 346",
-          "n": "shak. oth 1.3.346",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Oth.",
-          "act": "I",
-          "scene": "3",
-          "lines": "346"
-        },
-        {
-          "text": "Wiv . III , 3 , 122",
-          "n": "shak. wiv 3.3.122",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Wiv.",
-          "act": "III",
-          "scene": "3",
-          "lines": "122"
-        },
-        {
-          "text": "Meas . III , 1 , 71",
-          "n": "shak. mm 3.1.71",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Meas.",
-          "act": "III",
-          "scene": "1",
-          "lines": "71"
-        },
-        {
-          "text": "Err . III , 2 , 91",
-          "n": "shak. err 3.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Err.",
-          "act": "III",
-          "scene": "2",
-          "lines": "91"
-        },
-        {
-          "text": "IV , 2 , 23",
-          "n": "shak. err 4.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "2",
-          "scene": "23",
-          "lines": ""
-        },
-        {
-          "text": "Cor . III , 1 , 105",
-          "n": "shak. cor 3.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Cor.",
-          "act": "III",
-          "scene": "1",
-          "lines": "105"
-        },
-        {
-          "text": "Mcb . IV , 3 , 101",
-          "n": "shak. mac 4.3",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Mcb.",
-          "act": "IV",
-          "scene": "3",
-          "lines": "101"
-        },
-        {
-          "text": "Ant . I , 2 , 118",
-          "n": "shak. ant 1.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ant.",
-          "act": "I",
-          "scene": "2",
-          "lines": "118"
-        },
-        {
-          "text": "H6B IV , 9 , 17",
-          "n": "shak. 2h6 4.9.17",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "IV",
-          "scene": "9",
-          "lines": "17"
-        },
-        {
-          "text": "Tp . I , 2 , 490",
-          "n": "shak. tmp 1.2.490",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tp.",
-          "act": "I",
-          "scene": "2",
-          "lines": "490"
-        },
-        {
-          "text": "Meas . I , 2 , 50",
-          "n": "shak. mm 1.2.50",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Meas.",
-          "act": "I",
-          "scene": "2",
-          "lines": "50"
-        },
-        {
-          "text": "II , 1 , 127",
-          "n": "shak. mm 2.1.127",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "1",
-          "scene": "127",
-          "lines": ""
-        },
-        {
-          "text": "IV , 2 , 158",
-          "n": "shak. mm 4.2.158",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "2",
-          "scene": "158",
-          "lines": ""
-        },
-        {
-          "text": "Err . IV , 1 , 21",
-          "n": "shak. err 4.1.21",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Err.",
-          "act": "IV",
-          "scene": "1",
-          "lines": "21"
-        },
-        {
-          "text": "Tp . III , 2 , 30",
-          "n": "shak. tmp 3.2.30",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tp.",
-          "act": "III",
-          "scene": "2",
-          "lines": "30"
-        },
-        {
-          "text": "Wiv . III , 5 , 94",
-          "n": "shak. wiv 3.5.94",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Wiv.",
-          "act": "III",
-          "scene": "5",
-          "lines": "94"
-        },
-        {
-          "text": "Err . II , 2 , 117",
-          "n": "shak. err 2.2.117",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Err.",
-          "act": "II",
-          "scene": "2",
-          "lines": "117"
-        },
-        {
-          "text": "Merch . II , 1 , 41",
-          "n": "shak. mv 2.1.41",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Merch.",
-          "act": "II",
-          "scene": "1",
-          "lines": "41"
-        },
-        {
-          "text": "H4A II , 4 , 287",
-          "n": "shak. 1h4 2.4.287",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4A",
-          "act": "II",
-          "scene": "4",
-          "lines": "287"
-        },
-        {
-          "text": "H6A III , 2 , 134",
-          "n": "shak. 1h6 3.2.134",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6A",
-          "act": "III",
-          "scene": "2",
-          "lines": "134"
-        },
-        {
-          "text": "III , 4 , 19",
-          "n": "shak. 1h6 3.4.19",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "4",
-          "scene": "19",
-          "lines": ""
-        },
-        {
-          "text": "H6C I , 1 , 217",
-          "n": "shak. 3h6 1.1.217",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6C",
-          "act": "I",
-          "scene": "1",
-          "lines": "217"
-        },
-        {
-          "text": "Oth . IV , 1 , 111",
-          "n": "shak. oth 4.1.111",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Oth.",
-          "act": "IV",
-          "scene": "1",
-          "lines": "111"
-        },
-        {
-          "text": "V , 2 , 61",
-          "n": "shak. oth 5.2.61",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "2",
-          "scene": "61",
-          "lines": ""
-        },
-        {
-          "text": "Cymb . IV , 4 , 39",
-          "n": "shak. cym 4.4.39",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Cymb.",
-          "act": "IV",
-          "scene": "4",
-          "lines": "39"
-        },
-        {
-          "text": "Meas . IV , 2 , 5",
-          "n": "shak. mm 4.2.5",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Meas.",
-          "act": "IV",
-          "scene": "2",
-          "lines": "5"
-        },
-        {
-          "text": "Ado II , 1 , 336",
-          "n": "shak. ado 2.1.336",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ado",
-          "act": "II",
-          "scene": "1",
-          "lines": "336"
-        },
-        {
-          "text": "Merch . II , 2 , 166",
-          "n": "shak. mv 2.2.166",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Merch.",
-          "act": "II",
-          "scene": "2",
-          "lines": "166"
-        },
-        {
-          "text": "As III , 3 , 107",
-          "n": "shak. ayl 3.3.107",
-          "default": "NO",
-          "valid": "yes",
-          "play": "As",
-          "act": "III",
-          "scene": "3",
-          "lines": "107"
-        },
-        {
-          "text": "Shr . I , 1 , 240",
-          "n": "shak. shr 1.1.240",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Shr.",
-          "act": "I",
-          "scene": "1",
-          "lines": "240"
-        },
-        {
-          "text": "I , 2 , 80",
-          "n": "shak. shr 1.2.80",
-          "default": "NO",
-          "valid": "yes",
-          "play": "I",
-          "act": "2",
-          "scene": "80",
-          "lines": ""
-        },
-        {
-          "text": "H4A I , 2 , 109",
-          "n": "shak. 1h4 1.2.109",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4A",
-          "act": "I",
-          "scene": "2",
-          "lines": "109"
-        },
-        {
-          "text": "II , 1 , 19",
-          "n": "shak. 1h4 2.1.19",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "1",
-          "scene": "19",
-          "lines": ""
-        },
-        {
-          "text": "II , 1 , 19",
-          "n": "shak. 1h4 2.1.19",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "1",
-          "scene": "19",
-          "lines": ""
-        },
-        {
-          "text": "H4B II , 2 , 62",
-          "n": "shak. 2h4 2.2.62",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4B",
-          "act": "II",
-          "scene": "2",
-          "lines": "62"
-        },
-        {
-          "text": "R3 III , 4 , 53",
-          "n": "shak. r3 3.4.53",
-          "default": "NO",
-          "valid": "yes",
-          "play": "R3",
-          "act": "III",
-          "scene": "4",
-          "lines": "53"
-        },
-        {
-          "text": "R3 III , 4 , 53",
-          "n": "shak. r3 3.4.53",
-          "default": "NO",
-          "valid": "yes",
-          "play": "R3",
-          "act": "III",
-          "scene": "4",
-          "lines": "53"
-        },
-        {
-          "text": "Hml . I , 5 , 123",
-          "n": "shak. ham 1.5.123",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "I",
-          "scene": "5",
-          "lines": "123"
-        },
-        {
-          "text": "4 , 170",
-          "n": "shak. per 2.4.170",
-          "default": "NO",
-          "valid": "yes",
-          "play": "4",
-          "act": "170",
-          "lines": ""
-        },
-        {
-          "text": "Lr . I , 2 , 79",
-          "n": "shak. lr 1.2.79",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Lr.",
-          "act": "I",
-          "scene": "2",
-          "lines": "79"
-        },
-        {
-          "text": "22 , 12",
-          "n": "shak. lr 1.22.12",
-          "default": "NO",
-          "valid": "yes",
-          "play": "22",
-          "act": "12",
-          "lines": ""
-        },
-        {
-          "text": "55 , 4",
-          "n": "shak. lr 1.55.4",
-          "default": "NO",
-          "valid": "yes",
-          "play": "55",
-          "act": "4",
-          "lines": ""
-        },
-        {
-          "text": "85 , 6",
-          "n": "shak. lr 1.85.6",
-          "default": "NO",
-          "valid": "yes",
-          "play": "85",
-          "act": "6",
-          "lines": ""
-        },
-        {
-          "text": "85 , 6",
-          "n": "shak. lr 1.85.6",
-          "default": "NO",
-          "valid": "yes",
-          "play": "85",
-          "act": "6",
-          "lines": ""
-        },
-        {
-          "text": "Meas . II , 1 , 269",
-          "n": "shak. mm 2.1.269",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Meas.",
-          "act": "II",
-          "scene": "1",
-          "lines": "269"
-        },
-        {
-          "text": "Mids . I , 1 , 184",
-          "n": "shak. mnd 1.1.184",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Mids.",
-          "act": "I",
-          "scene": "1",
-          "lines": "184"
-        },
-        {
-          "text": "III , 2 , 101",
-          "n": "shak. mnd 3.2.101",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "2",
-          "scene": "101",
-          "lines": ""
-        },
-        {
-          "text": "V , 401",
-          "n": "shak. mnd 5.401.101",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "401",
-          "lines": ""
-        },
-        {
-          "text": "As II , 7 , 52",
-          "n": "shak. ayl 2.7.52",
-          "default": "NO",
-          "valid": "yes",
-          "play": "As",
-          "act": "II",
-          "scene": "7",
-          "lines": "52"
-        },
-        {
-          "text": "As II , 7 , 52",
-          "n": "shak. ayl 2.7.52",
-          "default": "NO",
-          "valid": "yes",
-          "play": "As",
-          "act": "II",
-          "scene": "7",
-          "lines": "52"
-        },
-        {
-          "text": "As II , 7 , 52",
-          "n": "shak. ayl 2.7.52",
-          "default": "NO",
-          "valid": "yes",
-          "play": "As",
-          "act": "II",
-          "scene": "7",
-          "lines": "52"
-        },
-        {
-          "text": "IV , 3 , 33",
-          "n": "shak. ayl 4.3.33",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "3",
-          "scene": "33",
-          "lines": ""
-        },
-        {
-          "text": "Alls IV , 3 , 369",
-          "n": "shak. aww 4.3.369",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Alls",
-          "act": "IV",
-          "scene": "3",
-          "lines": "369"
-        },
-        {
-          "text": "Tw . I , 3 , 66",
-          "n": "shak. tn 1.3.66",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tw.",
-          "act": "I",
-          "scene": "3",
-          "lines": "66"
-        },
-        {
-          "text": "III , 1 , 131",
-          "n": "shak. tn 3.1.131",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "1",
-          "scene": "131",
-          "lines": ""
-        },
-        {
-          "text": "H6B I , 4 , 78",
-          "n": "shak. 2h6 1.4.78",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "I",
-          "scene": "4",
-          "lines": "78"
-        },
-        {
-          "text": "III , 2 , 63",
-          "n": "shak. 2h6 3.2.63",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "2",
-          "scene": "63",
-          "lines": ""
-        },
-        {
-          "text": "H8 I , 1 , 158",
-          "n": "shak. h8 1.1.158",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H8",
-          "act": "I",
-          "scene": "1",
-          "lines": "158"
-        },
-        {
-          "text": "III , 2 , 132",
-          "n": "shak. h8 3.2.132",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "2",
-          "scene": "132",
-          "lines": ""
-        },
-        {
-          "text": "Troil . I , 1 , 59",
-          "n": "shak. tro 1.1.59",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Troil.",
-          "act": "I",
-          "scene": "1",
-          "lines": "59"
-        },
-        {
-          "text": "II , 3 , 204",
-          "n": "shak. tro 2.3.204",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "3",
-          "scene": "204",
-          "lines": ""
-        },
-        {
-          "text": "III , 2 , 200",
-          "n": "shak. tro 3.2.200",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "2",
-          "scene": "200",
-          "lines": ""
-        },
-        {
-          "text": "Tit . II , 3 , 302",
-          "n": "shak. tit 2.3.302",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tit.",
-          "act": "II",
-          "scene": "3",
-          "lines": "302"
-        },
-        {
-          "text": "IV , 2 , 172",
-          "n": "shak. tit 4.2.172",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "2",
-          "scene": "172",
-          "lines": ""
-        },
-        {
-          "text": "Caes . V , 2 , 5",
-          "n": "shak. jc 5.2.5",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Caes.",
-          "act": "V",
-          "scene": "2",
-          "lines": "5"
-        },
-        {
-          "text": "Hml . I , 3 , 76",
-          "n": "shak. ham 1.3.76",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "I",
-          "scene": "3",
-          "lines": "76"
-        },
-        {
-          "text": "Lr . II , 4 , 270",
-          "n": "shak. lr 2.4.270",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Lr.",
-          "act": "II",
-          "scene": "4",
-          "lines": "270"
-        },
-        {
-          "text": "V , 3 , 10",
-          "n": "shak. lr 5.3.10",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "3",
-          "scene": "10",
-          "lines": ""
-        },
-        {
-          "text": "Ant . I , 1 , 17",
-          "n": "shak. ant 1.1.17",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ant.",
-          "act": "I",
-          "scene": "1",
-          "lines": "17"
-        },
-        {
-          "text": "Wint . IV , 4 , 267",
-          "n": "shak. wt 4.4.267",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Wint.",
-          "act": "IV",
-          "scene": "4",
-          "lines": "267"
-        },
-        {
-          "text": "H4A V , 4 , 151",
-          "n": "shak. 1h4 5.4.151",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4A",
-          "act": "V",
-          "scene": "4",
-          "lines": "151"
-        },
-        {
-          "text": "Merch . I , 1 , 35",
-          "n": "shak. mv 1.1.35",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Merch.",
-          "act": "I",
-          "scene": "1",
-          "lines": "35"
-        },
-        {
-          "text": "Troil . V , 10 , 20",
-          "n": "shak. tro 5.10.20",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Troil.",
-          "act": "V",
-          "scene": "10",
-          "lines": "20"
-        }
-      ]
+      "orthOpt": null
     }
   ],
   [
     {
-      "key": "A4",
       "type": "main",
       "opt": "n",
-      "text": "a corruption of different particles and formative syllables ; 1) being a prefix to many words ; cf . etc . 2) preceding gerunds (most M . Edd . making use of the hyphen) : .\n .\n .\n .\n ; cf .\n .\n .\n .\n .\n .\n . . (Ff om . ). \n .\n 3) before substantives ; frequently changed to and by M . Edd . Qq and Ff have almost always etc . (f . i .\n . ) , M . Edd . throughout (cf . ).  The same liberty they have taken with most of the following passages , in which is supported by all or at least by the most authentic old texts : a) for : .\n .\n .\n .\n .\n . (Ff ). \n 344 (Ff ).  (Ff ).  (Q ).  . ; cf .\n . . ; cf . and .\n . . 282 etc . b) for : . (Ff ).  (Ff ).  (Ff ). \n .\n . (Ff ).  . (Qq ).  . , cf .\n .\n c) for : . . (Ff ).  (Ff ). \n . (Ff ). \n . Even this before vowels sometimes changed to : . (in and Ff Qq ).  (a solecism formed in derision by Coriolanus).  i . e . of it , (the gravedigger's speech).",
-      "orth": "A ,",
-      "orthExtent": "full",
-      "orthOpt": "n",
-      "bibl": [
+      "value": "A,",
+      "valueKey": "A4",
+      "schmidt": [
         {
-          "text": "III , 5 , 46",
-          "n": "shak. wiv 3.5.46",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "5",
-          "scene": "46",
-          "lines": ""
+          "parts": [
+            "a corruption of different particles and formative syllables; 1) being a prefix to many words; cf etc 2) preceding gerunds (most M Edd making use of the hyphen)",
+            "; cf (Ff om)"
+          ],
+          "expansions": {
+            "cf.": "compare",
+            "Ff": "First Folio"
+          },
+          "bibl": {
+            "text": "III, 5, 46",
+            "n": "shak. wiv 3.5.46",
+            "default": "NO",
+            "valid": "yes",
+            "play": "wiv",
+            "act": 3,
+            "scene": 5,
+            "lines": 46,
+            "nField": "shak. wiv 3.5.46",
+            "biblText": "III, 5, 46",
+            "playName": "The Merry Wives of Windsor"
+          }
         },
         {
-          "text": "Hml . I , 3 , 119",
-          "n": "shak. ham 1.3.119",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "I",
-          "scene": "3",
-          "lines": "119"
+          "parts": [
+            "3) before substantives; frequently changed to  and  by M Edd Qq and Ff have almost always  etc (f i), M Edd throughout  (cf) The same liberty they have taken with most of the following passages, in which  is supported by all or at least by the most authentic old texts",
+            ""
+          ],
+          "expansions": {
+            "Qq": "Quartos",
+            "Ff": "First Folio",
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Hml I, 3, 119",
+            "n": "shak. ham 1.3.119",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ham",
+            "act": 1,
+            "scene": 3,
+            "lines": 119,
+            "nField": "shak. ham 1.3.119",
+            "biblText": "Hml I, 3, 119",
+            "playName": "Hamlet"
+          }
         },
         {
-          "text": "Pilgr . 100",
-          "n": "shak. pp 100",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Pilgr.",
-          "act": "100",
-          "lines": ""
+          "parts": [
+            "a)  for",
+            "(Ff)  344 (Ff) (Ff) (Q) ; cf ; cf and 282 etc"
+          ],
+          "expansions": {
+            "Ff": "First Folio",
+            "Q": "Quarto",
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Pilgr 100",
+            "n": "shak. pp 100",
+            "default": "NO",
+            "valid": "yes",
+            "play": "pp",
+            "act": 100,
+            "scene": null,
+            "lines": null,
+            "nField": "shak. pp 100",
+            "biblText": "Pilgr 100",
+            "playName": "pp"
+          }
         },
         {
-          "text": "Oth . III , 3 , 71",
-          "n": "shak. oth 3.3.71",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Oth.",
-          "act": "III",
-          "scene": "3",
-          "lines": "71"
+          "parts": [
+            "b) for",
+            "(Ff) (Ff) (Ff) (Ff) (Qq) , cf"
+          ],
+          "expansions": {
+            "Ff": "First Folio",
+            "Qq": "Quartos",
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Oth III, 3, 71",
+            "n": "shak. oth 3.3.71",
+            "default": "NO",
+            "valid": "yes",
+            "play": "oth",
+            "act": 3,
+            "scene": 3,
+            "lines": 71,
+            "nField": "shak. oth 3.3.71",
+            "biblText": "Oth III, 3, 71",
+            "playName": "Othello"
+          }
         },
         {
-          "text": "Ado III , 4 , 52",
-          "n": "shak. ado 3.4.52",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ado",
-          "act": "III",
-          "scene": "4",
-          "lines": "52"
+          "parts": [
+            ""
+          ],
+          "expansions": {},
+          "bibl": {
+            "text": "Ado III, 4, 52",
+            "n": "shak. ado 3.4.52",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ado",
+            "act": 3,
+            "scene": 4,
+            "lines": 52,
+            "nField": "shak. ado 3.4.52",
+            "biblText": "Ado III, 4, 52",
+            "playName": "ado"
+          }
         },
         {
-          "text": "H4A I , 2 , 139",
-          "n": "shak. 1h4 1.2.139",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4A",
-          "act": "I",
-          "scene": "2",
-          "lines": "139"
+          "parts": [
+            "c) for",
+            "(Ff) (Ff) (Ff)"
+          ],
+          "expansions": {
+            "Ff": "First Folio"
+          },
+          "bibl": {
+            "text": "H4A I, 2, 139",
+            "n": "shak. 1h4 1.2.139",
+            "default": "NO",
+            "valid": "yes",
+            "play": "1h4",
+            "act": 1,
+            "scene": 2,
+            "lines": 139,
+            "nField": "shak. 1h4 1.2.139",
+            "biblText": "H4A I, 2, 139",
+            "playName": "Henry IV, Part 1"
+          }
         },
         {
-          "text": "II , 1 , 36",
-          "n": "shak. 1h4 2.1.36",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "1",
-          "scene": "36",
-          "lines": ""
-        },
-        {
-          "text": "Tim . IV , 3 , 294",
-          "n": "shak. tim 4.3.294",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tim.",
-          "act": "IV",
-          "scene": "3",
-          "lines": "294"
-        },
-        {
-          "text": "Tim . IV , 3 , 292",
-          "n": "shak. tim 4.3.292",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Tim.",
-          "act": "IV",
-          "scene": "3",
-          "lines": "292"
-        },
-        {
-          "text": "Caes . I , 2 , 193",
-          "n": "shak. jc 1.2.193",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Caes.",
-          "act": "I",
-          "scene": "2",
-          "lines": "193"
-        },
-        {
-          "text": "II , 2 , 116",
-          "n": "shak. jc 2.2.116",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "2",
-          "scene": "116",
-          "lines": ""
-        },
-        {
-          "text": "III , 2 , 14",
-          "n": "shak. aww 3.2.14",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "2",
-          "scene": "14",
-          "lines": ""
-        },
-        {
-          "text": "H4B III , 2 , 49",
-          "n": "shak. 2h4 3.2.49",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4B",
-          "act": "III",
-          "scene": "2",
-          "lines": "49"
-        },
-        {
-          "text": "I , 6 , 47",
-          "n": "shak. cor 1.6.47",
-          "default": "NO",
-          "valid": "yes",
-          "play": "I",
-          "act": "6",
-          "scene": "47",
-          "lines": ""
-        },
-        {
-          "text": "II , 3 , 79",
-          "n": "shak. cor 2.3.79",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "3",
-          "scene": "79",
-          "lines": ""
-        },
-        {
-          "text": "V , 6 , 83",
-          "n": "shak. cor 5.6.83",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "6",
-          "scene": "83",
-          "lines": ""
-        },
-        {
-          "text": "V , 6 , 83",
-          "n": "shak. cor 5.6.83",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "6",
-          "scene": "83",
-          "lines": ""
-        },
-        {
-          "text": "V , 6 , 83",
-          "n": "shak. cor 5.6.83",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "6",
-          "scene": "83",
-          "lines": ""
-        },
-        {
-          "text": "V , 6 , 83",
-          "n": "shak. cor 5.6.83",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "6",
-          "scene": "83",
-          "lines": ""
-        },
-        {
-          "text": "H4B II , 4 , 229",
-          "n": "shak. 2h4 2.4.229",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4B",
-          "act": "II",
-          "scene": "4",
-          "lines": "229"
-        },
-        {
-          "text": "Cor . I , 3 , 120",
-          "n": "shak. cor 1.3.120",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Cor.",
-          "act": "I",
-          "scene": "3",
-          "lines": "120"
-        },
-        {
-          "text": "Hml . II , 1 , 99",
-          "n": "shak. ham 2.1.99",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "II",
-          "scene": "1",
-          "lines": "99"
-        },
-        {
-          "text": "Cor . I , 3 , 64",
-          "n": "shak. cor 1.3.64",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Cor.",
-          "act": "I",
-          "scene": "3",
-          "lines": "64"
-        },
-        {
-          "text": "H4B II , 4 , 298",
-          "n": "shak. 2h4 2.4.298",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4B",
-          "act": "II",
-          "scene": "4",
-          "lines": "298"
-        },
-        {
-          "text": "Rom . III , 4 , 20",
-          "n": "shak. rom 3.4.20",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Rom.",
-          "act": "III",
-          "scene": "4",
-          "lines": "20"
-        },
-        {
-          "text": "III , 5 , 162",
-          "n": "shak. rom 3.5.162",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "5",
-          "scene": "162",
-          "lines": ""
-        },
-        {
-          "text": "II , 4 , 378",
-          "n": "shak. 1h4 2.4.378",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "4",
-          "scene": "378",
-          "lines": ""
-        },
-        {
-          "text": "II , 4 , 378",
-          "n": "shak. 1h4 2.4.378",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "4",
-          "scene": "378",
-          "lines": ""
-        },
-        {
-          "text": "H4B II , 4 , 190",
-          "n": "shak. 2h4 2.4.190",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4B",
-          "act": "II",
-          "scene": "4",
-          "lines": "190"
-        },
-        {
-          "text": "Cor . I , 3 , 62",
-          "n": "shak. cor 1.3.62",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Cor.",
-          "act": "I",
-          "scene": "3",
-          "lines": "62"
-        },
-        {
-          "text": "Rom . I , 1 , 1",
-          "n": "shak. rom 1.1.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Rom.",
-          "act": "I",
-          "scene": "1",
-          "lines": "1"
-        },
-        {
-          "text": "Rom . III , 1 , 93",
-          "n": "shak. rom 3.1.93",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Rom.",
-          "act": "III",
-          "scene": "1",
-          "lines": "93"
-        },
-        {
-          "text": "IV , 5 , 1",
-          "n": "shak. shr 4.5.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "5",
-          "scene": "1",
-          "lines": ""
-        },
-        {
-          "text": "R2 II , 1 , 251",
-          "n": "shak. r2 2.1.251",
-          "default": "NO",
-          "valid": "yes",
-          "play": "R2",
-          "act": "II",
-          "scene": "1",
-          "lines": "251"
-        },
-        {
-          "text": "III , 3 , 146",
-          "n": "shak. r2 3.3.146",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "3",
-          "scene": "146",
-          "lines": ""
-        },
-        {
-          "text": "H6A I , 2 , 102",
-          "n": "shak. 1h6 1.2.102",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6A",
-          "act": "I",
-          "scene": "2",
-          "lines": "102"
-        },
-        {
-          "text": "H6B II , 3 , 54",
-          "n": "shak. 2h6 2.3.54",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "II",
-          "scene": "3",
-          "lines": "54"
-        },
-        {
-          "text": "IV , 7 , 115",
-          "n": "shak. 2h6 4.7.115",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "7",
-          "scene": "115",
-          "lines": ""
-        },
-        {
-          "text": "H8 II , 1 , 78",
-          "n": "shak. h8 2.1.78",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H8",
-          "act": "II",
-          "scene": "1",
-          "lines": "78"
-        },
-        {
-          "text": "Hml . V , 1 , 218",
-          "n": "shak. ham 5.1.218",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "V",
-          "scene": "1",
-          "lines": "218"
-        },
-        {
-          "text": "H4A III , 1 , 133",
-          "n": "shak. 1h4 3.1.133",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H4A",
-          "act": "III",
-          "scene": "1",
-          "lines": "133"
-        },
-        {
-          "text": "III , 4 , 122",
-          "n": "shak. ham 3.4.122",
-          "default": "NO",
-          "valid": "yes",
-          "play": "III",
-          "act": "4",
-          "scene": "122",
-          "lines": ""
-        },
-        {
-          "text": "H6B III , 2 , 318",
-          "n": "shak. 2h6 3.2.318",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "III",
-          "scene": "2",
-          "lines": "318"
-        },
-        {
-          "text": "R3 I , 3 , 304",
-          "n": "shak. r3 1.3.304",
-          "default": "NO",
-          "valid": "yes",
-          "play": "R3",
-          "act": "I",
-          "scene": "3",
-          "lines": "304"
-        },
-        {
-          "text": "Hml . V , 1 , 26",
-          "n": "shak. ham 5.1.26",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "V",
-          "scene": "1",
-          "lines": "26"
+          "parts": [
+            "Even this  before vowels sometimes changed to",
+            "(in  and  Ff  Qq) (a solecism formed in derision by Coriolanus) i e of it, (the gravedigger's speech)"
+          ],
+          "expansions": {
+            "Ff": "First Folio",
+            "Qq": "Quartos"
+          },
+          "bibl": {
+            "text": "II, 1, 36",
+            "n": "shak. 1h4 2.1.36",
+            "default": "NO",
+            "valid": "yes",
+            "play": "1h4",
+            "act": 2,
+            "scene": 1,
+            "lines": 36,
+            "nField": "shak. 1h4 2.1.36",
+            "biblText": "II, 1, 36",
+            "playName": "Henry IV, Part 1"
+          }
         }
-      ]
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
     }
   ],
   [
     {
-      "key": "A5",
       "type": "main",
       "opt": "n",
-      "text": "corrupted from (cf . ) : . (Ff ).",
-      "orth": "A ,",
-      "orthExtent": "full",
-      "orthOpt": "n",
-      "bibl": [
+      "value": "A,",
+      "valueKey": "A5",
+      "schmidt": [
         {
-          "text": ""
+          "parts": [
+            "corrupted from  (cf)",
+            "(Ff)"
+          ],
+          "expansions": {
+            "cf.": "compare",
+            "Ff": "First Folio"
+          },
+          "bibl": {
+            "text": "",
+            "play": "",
+            "act": "",
+            "scene": null,
+            "lines": null,
+            "biblText": "",
+            "playName": "Bad Value Passed"
+          }
         }
-      ]
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
     }
   ],
   [
     {
-      "key": "A6",
       "type": "main",
       "opt": "n",
-      "text": "a mutilation of the pronoun not only in the language of common people (f . i .\n .\n . 125) but of well-bred persons : .\n .\n .\n .\n .\n . . etc . Few M . Edd . retain the ancient spelling , most change it to In many cases even O . Edd . differ , Qq having Ff .\n .\n . . etc . In () seems , at first sight , to be used for but in fact there is no certain reference to any particular person ; cf .",
-      "orth": "A ,",
-      "orthExtent": "full",
-      "orthOpt": "n",
-      "bibl": [
+      "value": "A,",
+      "valueKey": "A6",
+      "schmidt": [
         {
-          "text": "Ado III , 3 , 28",
-          "n": "shak. ado 3.3.28",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ado",
-          "act": "III",
-          "scene": "3",
-          "lines": "28"
-        },
-        {
-          "text": "Ado III , 3 , 28",
-          "n": "shak. ado 3.3.28",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ado",
-          "act": "III",
-          "scene": "3",
-          "lines": "28"
-        },
-        {
-          "text": "Ado III , 3 , 28",
-          "n": "shak. ado 3.3.28",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ado",
-          "act": "III",
-          "scene": "3",
-          "lines": "28"
-        },
-        {
-          "text": "Ado III , 3 , 28",
-          "n": "shak. ado 3.3.28",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ado",
-          "act": "III",
-          "scene": "3",
-          "lines": "28"
-        },
-        {
-          "text": "Ado III , 3 , 28",
-          "n": "shak. ado 3.3.28",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Ado",
-          "act": "III",
-          "scene": "3",
-          "lines": "28"
-        },
-        {
-          "text": "LLL IV , 1 , 136",
-          "n": "shak. lll 4.1.136",
-          "default": "NO",
-          "valid": "yes",
-          "play": "LLL",
-          "act": "IV",
-          "scene": "1",
-          "lines": "136"
-        },
-        {
-          "text": "LLL IV , 1 , 136",
-          "n": "shak. lll 4.1.136",
-          "default": "NO",
-          "valid": "yes",
-          "play": "LLL",
-          "act": "IV",
-          "scene": "1",
-          "lines": "136"
-        },
-        {
-          "text": "Merch . II , 2 , 56",
-          "n": "shak. mv 2.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Merch.",
-          "act": "II",
-          "scene": "2",
-          "lines": "56"
-        },
-        {
-          "text": "Alls IV , 5 , 41",
-          "n": "shak. aww 4.5.41",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Alls",
-          "act": "IV",
-          "scene": "5",
-          "lines": "41"
-        },
-        {
-          "text": "H6B I , 3 , 7",
-          "n": "shak. 2h6 1.3",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "I",
-          "scene": "3",
-          "lines": "7"
-        },
-        {
-          "text": "IV , 2 , 58",
-          "n": "shak. 2h6 4.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "2",
-          "scene": "58",
-          "lines": ""
-        },
-        {
-          "text": "II , 1 , 17",
-          "n": "shak. ado 2.1.17",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "1",
-          "scene": "17",
-          "lines": ""
-        },
-        {
-          "text": "II , 3 , 178",
-          "n": "shak. ado 2.3.178",
-          "default": "NO",
-          "valid": "yes",
-          "play": "II",
-          "act": "3",
-          "scene": "178",
-          "lines": ""
-        },
-        {
-          "text": "LLL V , 2 , 323",
-          "n": "shak. lll 5.2.323",
-          "default": "NO",
-          "valid": "yes",
-          "play": "LLL",
-          "act": "V",
-          "scene": "2",
-          "lines": "323"
-        },
-        {
-          "text": "LLL V , 2 , 323",
-          "n": "shak. lll 5.2.323",
-          "default": "NO",
-          "valid": "yes",
-          "play": "LLL",
-          "act": "V",
-          "scene": "2",
-          "lines": "323"
-        },
-        {
-          "text": "LLL V , 2 , 323",
-          "n": "shak. lll 5.2.323",
-          "default": "NO",
-          "valid": "yes",
-          "play": "LLL",
-          "act": "V",
-          "scene": "2",
-          "lines": "323"
-        },
-        {
-          "text": "H6B II , 2 , 75",
-          "n": "shak. 2h6 2.2",
-          "default": "NO",
-          "valid": "yes",
-          "play": "H6B",
-          "act": "II",
-          "scene": "2",
-          "lines": "75"
-        },
-        {
-          "text": "Rom . V , 1 , 38",
-          "n": "shak. rom 5.1.38",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Rom.",
-          "act": "V",
-          "scene": "1",
-          "lines": "38"
-        },
-        {
-          "text": "Hml . II , 1 , 58",
-          "n": "shak. ham 2.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Hml.",
-          "act": "II",
-          "scene": "1",
-          "lines": "58"
-        },
-        {
-          "text": "IV , 5 , 185",
-          "n": "shak. ham 4.5",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "5",
-          "scene": "185",
-          "lines": ""
-        },
-        {
-          "text": "IV , 5 , 185",
-          "n": "shak. ham 4.5.185",
-          "default": "NO",
-          "valid": "yes",
-          "play": "IV",
-          "act": "5",
-          "scene": "185",
-          "lines": ""
-        },
-        {
-          "text": "V , 1 , 74",
-          "n": "shak. ham 5.1",
-          "default": "NO",
-          "valid": "yes",
-          "play": "V",
-          "act": "1",
-          "scene": "74",
-          "lines": ""
-        },
-        {
-          "text": "Alls I , 3 , 90",
-          "n": "shak. aww 1.3.90",
-          "default": "NO",
-          "valid": "yes",
-          "play": "Alls",
-          "act": "I",
-          "scene": "3",
-          "lines": "90"
+          "parts": [
+            "a mutilation of the pronoun  not only in the language of common people (f i 125) but of well-bred persons",
+            "etc Few M Edd retain the ancient spelling, most change it to  In many cases even O Edd differ, Qq having  Ff etc In  ()  seems, at first sight, to be used for  but in fact there is no certain reference to any particular person; cf"
+          ],
+          "expansions": {
+            "Qq": "Quartos",
+            "Ff": "First Folio",
+            "cf.": "compare"
+          },
+          "bibl": {
+            "text": "Ado III, 3, 28",
+            "n": "shak. ado 3.3.28",
+            "default": "NO",
+            "valid": "yes",
+            "play": "ado",
+            "act": 3,
+            "scene": 3,
+            "lines": 28,
+            "nField": "shak. ado 3.3.28",
+            "biblText": "Ado III, 3, 28",
+            "playName": "ado"
+          }
         }
-      ]
+      ],
+      "orthExtent": "full",
+      "orthOpt": "n"
     }
   ]
 ]
