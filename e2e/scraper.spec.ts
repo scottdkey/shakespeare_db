@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
 import fs from "fs"
-import { xmlParser } from './xmlParser';
+import { xmlParser } from '../src/util/xmlParser';
 
 const urlPrefix = 'https://www.perseus.tufts.edu/hopper'
 

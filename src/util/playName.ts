@@ -1,4 +1,4 @@
-export const playNameLookup: { [key: string]: string } = {
+const playNameLookup: { [key: string]: string } = {
   "ant": "Antony and Cleopatra",
   "hml": "Hamlet",
   "h8": "Henry VIII",
@@ -76,3 +76,5 @@ export const playNameLookup: { [key: string]: string } = {
   "1h6": "Henry VI, Part 1",
   "": "Bad Value Passed"
 }
+
+export const getPlayName = (play: string) => playNameLookup[play.trim()] ?? play.trim();

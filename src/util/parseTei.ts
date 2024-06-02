@@ -1,7 +1,8 @@
+
 import { cleanText } from "./cleanText";
 import { ensureArray } from "./ensureArray";
 import { parseBiblText } from "./parseBiblText";
-import { parseSchmidtLexicon } from "./parseDefinition";
+import { parseSchmidtLexicon } from "./schmidtLexParser";
 
 /**
  * 
@@ -30,10 +31,8 @@ export const parseTEI = (data: TEI2) => {
       schmidt: parseSchmidtLexicon(entry?._).map((v, i) => {
         return { ...v, bibl: bibl[i] }
       }),
-      // definitions: entry?._,
       orthExtent: entry.orth && entry.orth.$ ? entry.orth.$.extent : null,
       orthOpt: entry.orth && entry.orth.$ ? entry.orth.$.opt : null,
-      // bibl,
     };
   });
 };

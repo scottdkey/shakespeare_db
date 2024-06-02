@@ -9,9 +9,9 @@
         {
           "parts": [
             "the first letter of the alphabet",
-            " .   sq."
+            "sq."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "LLL V, 1, 50",
             "n": "shak. lll 5.1.50",
@@ -41,9 +41,9 @@
         {
           "parts": [
             "a note in music",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Shr. III, 1, 74",
             "n": "shak. shr 3.1.74",
@@ -72,14 +72,13 @@
       "schmidt": [
         {
           "parts": [
-            "or  indef. art., the two forms differing as at present.  for ",
-            " . . . . . . . . . . . . . . . . . . . . .  (Qq. ). . . . . . . . . . . .  (Ff ). . . . . ; cf. . Before  generally  f. i. . . . . . ; cf.  Twice . .  before ",
-            " . Of the original indiscriminate use of  before consonants as well as vowels a trace is left in the pun of Mrs Quickly",
-            " ."
+            "or  indef. art. , the two forms differing as at present. for",
+            "(Qq.). (Ff). ; cf. Before  generally  f. i. ; cf. Twice. before",
+            "Of the original indiscriminate use of  before consonants as well as vowels a trace is left in the pun of Mrs Quickly",
+            ""
           ],
-          "expansions": {
-            "Ff": "First Folio",
-            "cf.": "compare"
+          "abbreviations": {
+            "Ff": "First Folio"
           },
           "bibl": {
             "text": "Wint. II, 3, 114",
@@ -98,12 +97,10 @@
         {
           "parts": [
             "Superfluous repetition of the ind. art. before adjectives",
-            " . . .  . . . . . . . . .  (F ). . No less before adjectives placed after their substantives",
-            " . . . . ."
+            "(F). No less before adjectives placed after their substantives",
+            ""
           ],
-          "expansions": {
-            "ind.": "indefinite",
-            "art.": "article",
+          "abbreviations": {
             "F": "Folios"
           },
           "bibl": {
@@ -123,10 +120,9 @@
         {
           "parts": [
             "As before  and  (q. v.) the art. is, though seldom, found before other numerals",
-            " . .  (Q ). . Similarly before  q. v."
+            "(Q). Similarly before  q. v."
           ],
-          "expansions": {
-            "art.": "article",
+          "abbreviations": {
             "Q": "Quarto"
           },
           "bibl": {
@@ -145,14 +141,13 @@
         },
         {
           "parts": [
-            "Its use after  and  is in general conformable to the now prevailing rule (f. i. . . ), and the passage in ",
-            "  cannot be called an exception; but there are a few instances of its omission",
-            " .  (Ff ). . It seems to have strayed from its place in the following expressions",
-            "  (== so rarely wondered a father, i. e. a father endowed with such a rare power of working miracles). . . cf. ; the phrases  etc. being treated as simple words, from which adjectives in  might be derived."
+            "Its use after  and  is in general conformable to the now prevailing rule (f. i.), and the passage in",
+            "cannot be called an exception; but there are a few instances of its omission",
+            "(Ff). It seems to have strayed from its place in the following expressions",
+            "(== so rarely wondered a father, i. e. a father endowed with such a rare power of working miracles). cf. ; the phrases  etc. being treated as simple words, from which adjectives in  might be derived."
           ],
-          "expansions": {
-            "Ff": "First Folio",
-            "cf.": "compare"
+          "abbreviations": {
+            "Ff": "First Folio"
           },
           "bibl": {
             "text": "Ant. II, 5, 87",
@@ -171,10 +166,10 @@
         {
           "parts": [
             "Similarly placed between comparatives and their substantives",
-            " ; especially when preceded by ",
-            " . . . . . ."
+            "; especially when preceded by",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "R2 IV, 16",
             "n": "shak. r2 4.1",
@@ -192,10 +187,10 @@
         {
           "parts": [
             "According to custom, the poet says",
-            "  (f. i. . . . . ), but also",
-            " . ."
+            "(f. i.), but also",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H6B IV, 8, 59",
             "n": "shak. 2h6 4.8",
@@ -212,16 +207,12 @@
         },
         {
           "parts": [
-            "The art. omitted after  and  (f. i. . . . ), even before the object",
-            " . . ; cf. . . . .  (Qq ). .  etc. Keeping, however, its place, when  is but emphatically used for ",
-            " . cf. . . . . . . . .  . . . . Even in",
-            " ."
+            "The art. omitted after  and  (f. i.), even before the object",
+            "; cf. (Qq). etc. Keeping, however, its place, when  is but emphatically used for",
+            "cf. Even in",
+            ""
           ],
-          "expansions": {
-            "art.": "article",
-            "cf.": "compare",
-            "Qq": "Quartos"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "H6C II, 5, 81",
             "n": "shak. 3h6 2.5.81",
@@ -239,11 +230,9 @@
         {
           "parts": [
             "Its omission in the predicate of rare occurrence",
-            " . . . . . . . . .  . .  cf. H6A V . ."
+            "cf. H6A V."
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "H8 V, 1, 172",
             "n": "shak. h8 5.1.172",
@@ -261,12 +250,12 @@
         {
           "parts": [
             "Often omitted in comparative sentences, and whenever the respective noun expresses the whole class",
-            " .  . . . . .  . . . . .   . . . . . . . . . . . . . . . . . . But also in a particular sense",
-            " . . . In an apposition",
-            " . Inserted, on the other hand, contrary to the common use",
-            " ."
+            "But also in a particular sense",
+            "In an apposition",
+            "Inserted, on the other hand, contrary to the common use",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Cor. IV, 5, 114",
             "n": "shak. cor 4.5",
@@ -283,11 +272,11 @@
         },
         {
           "parts": [
-            "Used for ",
-            " . . Oftenest in prepositional phrases",
-            " . . . . . . . . . . . . . . . . . . . . . . ."
+            "Used for",
+            "Oftenest in prepositional phrases",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Caes. II, 2, 77",
             "n": "shak. jc 2.2.77",
@@ -305,10 +294,10 @@
         {
           "parts": [
             "Inserted before names serving for war-cries",
-            " . . . Before names peculiarly used as appellatives",
-            " . ."
+            "Before names peculiarly used as appellatives",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "IV, 3, 175",
             "n": "shak. jc 4.3.175",
@@ -337,11 +326,10 @@
       "schmidt": [
         {
           "parts": [
-            "a corruption of different particles and formative syllables; 1) being a prefix to many words; cf.  etc.2) preceding gerunds (most M. Edd. making use of the hyphen)",
-            " . . . .  . . . . . . . . ; cf. . . . . . . . . . . . . . . . . . . .  (Ff om.). . .  . . ."
+            "a corruption of different particles and formative syllables; 1) being a prefix to many words; cf. etc. 2) preceding gerunds (most M. Edd. making use of the hyphen)",
+            "; cf. (Ff om.)."
           ],
-          "expansions": {
-            "cf.": "compare",
+          "abbreviations": {
             "Ff": "First Folio"
           },
           "bibl": {
@@ -360,13 +348,11 @@
         },
         {
           "parts": [
-            "3) before substantives; frequently changed to  and  by M. Edd. Qq and Ff have almost always  etc. (f. i. . . .), M. Edd. throughout  (cf. ). The same liberty they have taken with most of the following passages, in which  is supported by all or at least by the most authentic old texts",
+            "3) before substantives; frequently changed to  and  by M. Edd. Qq and Ff have almost always  etc. (f. i.), M. Edd. throughout  (cf.). The same liberty they have taken with most of the following passages, in which  is supported by all or at least by the most authentic old texts",
             ""
           ],
-          "expansions": {
-            "Qq": "Quartos",
-            "Ff": "First Folio",
-            "cf.": "compare"
+          "abbreviations": {
+            "Ff": "First Folio"
           },
           "bibl": {
             "text": "Hml. I, 3, 119",
@@ -384,13 +370,12 @@
         },
         {
           "parts": [
-            "a)  for ",
-            " . . . . . . . . . .   . .  . . . . . .  (Ff ). . . 344 (Ff ).  (Ff ). . .  (Q ). . ; cf. . . .    . ; cf.  and . . . . .   282 etc."
+            "a)  for",
+            "(Ff). 344 (Ff). (Ff). (Q). ; cf. ; cf. and. 282 etc."
           ],
-          "expansions": {
-            "Ff": "First Folio",
+          "abbreviations": {
             "Q": "Quarto",
-            "cf.": "compare"
+            "Ff": "First Folio"
           },
           "bibl": {
             "text": "Pilgr. 100",
@@ -408,13 +393,11 @@
         },
         {
           "parts": [
-            "b) for ",
-            " . . .  (Ff ).  (Ff ). . .  (Ff ). . . . . .  .  (Ff ). .  (Qq ). . , cf. . . .  . ."
+            "b) for",
+            "(Ff). (Ff). (Ff). (Ff). (Qq). , cf."
           ],
-          "expansions": {
-            "Ff": "First Folio",
-            "Qq": "Quartos",
-            "cf.": "compare"
+          "abbreviations": {
+            "Ff": "First Folio"
           },
           "bibl": {
             "text": "Oth. III, 3, 71",
@@ -432,9 +415,12 @@
         },
         {
           "parts": [
-            ""
+            "c) for",
+            "(Ff). (Ff). (Ff)."
           ],
-          "expansions": {},
+          "abbreviations": {
+            "Ff": "First Folio"
+          },
           "bibl": {
             "text": "Ado III, 4, 52",
             "n": "shak. ado 3.4.52",
@@ -451,10 +437,10 @@
         },
         {
           "parts": [
-            "c) for ",
-            " . .  (Ff ).  (Ff ). . . . . .  (Ff ). . . ."
+            "Even this  before vowels sometimes changed to",
+            "(in  and  Ff  Qq). (a solecism formed in derision by Coriolanus). i. e. of it, (the gravedigger's speech)."
           ],
-          "expansions": {
+          "abbreviations": {
             "Ff": "First Folio"
           },
           "bibl": {
@@ -468,29 +454,6 @@
             "lines": 139,
             "nField": "shak. 1h4 1.2.139",
             "biblText": "H4A I, 2, 139",
-            "playName": "Henry IV, Part 1"
-          }
-        },
-        {
-          "parts": [
-            "Even this  before vowels sometimes changed to ",
-            " . . .  (in  and  Ff  Qq ).  (a solecism formed in derision by Coriolanus).  i. e. of it,  (the gravedigger's speech)."
-          ],
-          "expansions": {
-            "Ff": "First Folio",
-            "Qq": "Quartos"
-          },
-          "bibl": {
-            "text": "II, 1, 36",
-            "n": "shak. 1h4 2.1.36",
-            "default": "NO",
-            "valid": "yes",
-            "play": "1h4",
-            "act": 2,
-            "scene": 1,
-            "lines": 36,
-            "nField": "shak. 1h4 2.1.36",
-            "biblText": "II, 1, 36",
             "playName": "Henry IV, Part 1"
           }
         }
@@ -508,11 +471,10 @@
       "schmidt": [
         {
           "parts": [
-            "corrupted from  (cf. )",
-            " .  (Ff )."
+            "corrupted from  (cf.)",
+            "(Ff)."
           ],
-          "expansions": {
-            "cf.": "compare",
+          "abbreviations": {
             "Ff": "First Folio"
           },
           "bibl": {
@@ -539,13 +501,11 @@
       "schmidt": [
         {
           "parts": [
-            "a mutilation of the pronoun  not only in the language of common people (f. i. .     .  . . . . 125) but of well-bred persons",
-            " . .  . . . .  . . . .  . . . . . . .  etc. Few M. Edd. retain the ancient spelling, most change it to  In many cases even O. Edd. differ, Qq having  Ff . . . .   . . . .   etc. In  ()  seems, at first sight, to be used for  but in fact there is no certain reference to any particular person; cf. . ."
+            "a mutilation of the pronoun  not only in the language of common people (f. i. 125) but of well-bred persons",
+            "etc. Few M. Edd. retain the ancient spelling, most change it to  In many cases even O. Edd. differ, Qq having  Ff. etc. In  ()  seems, at first sight, to be used for  but in fact there is no certain reference to any particular person; cf."
           ],
-          "expansions": {
-            "Qq": "Quartos",
-            "Ff": "First Folio",
-            "cf.": "compare"
+          "abbreviations": {
+            "Ff": "First Folio"
           },
           "bibl": {
             "text": "Ado III, 3, 28",
@@ -576,9 +536,9 @@
         {
           "parts": [
             "a remnant of Anglosaxon suffixes, serving as an expletive void of sense to fill up the metre",
-            " .  .   . . .  (reading of Qq; Ff ).  (M. Edd. ). It is needless to speak of the gibberish of Dr. Caius, who likes to prolong the words by appending an  f. i. . 85 etc."
+            "(reading of Qq; Ff). (M. Edd.). It is needless to speak of the gibberish of Dr. Caius, who likes to prolong the words by appending an  f. i. 85 etc."
           ],
-          "expansions": {
+          "abbreviations": {
             "Ff": "First Folio"
           },
           "bibl": {
@@ -611,7 +571,7 @@
           "parts": [
             "name of the Moor in  etc."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Tit. II, 1, 12",
             "n": "shak. tit 2.1.12",
@@ -641,10 +601,10 @@
         {
           "parts": [
             "1) to leave",
-            " .  . . . .2) to desert, to forsake",
-            " .  (forsaken and kept from your bed). ."
+            "2) to desert, to forsake",
+            "(forsaken and kept from your bed)."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "As V, 1, 52",
             "n": "shak. ayl 5.1.52",
@@ -662,9 +622,9 @@
         {
           "parts": [
             "3) to give up, to renounce",
-            " . . ."
+            ""
           ],
-          "expansions": {}
+          "abbreviations": {}
         }
       ],
       "orthExtent": "full",
@@ -681,11 +641,9 @@
         {
           "parts": [
             "to lower, to degrade",
-            " .  (Qq )."
+            "(Qq)."
           ],
-          "expansions": {
-            "Qq": "Quartos"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -711,9 +669,9 @@
         {
           "parts": [
             "made ashamed",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -738,13 +696,11 @@
       "schmidt": [
         {
           "parts": [
-            "(cf. ) 1) tr. a) to beat down, to overthrow, to humble",
-            " .b) to weaken, to diminish",
-            " . .  ( == shorten). .  . . . ."
+            "(cf.) 1) tr. a) to beat down, to overthrow, to humble",
+            "b) to weaken, to diminish",
+            "( == shorten)."
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "Tp. IV, 56",
             "n": "shak. tmp 4.56",
@@ -762,9 +718,9 @@
         {
           "parts": [
             "c) to blunt, to take off the edge of",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Mids. III, 2, 432",
             "n": "shak. mnd 3.2.432",
@@ -782,9 +738,9 @@
         {
           "parts": [
             "d) to reduce in estimation",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Merch. V, 198",
             "n": "shak. mv 5.198",
@@ -802,9 +758,9 @@
         {
           "parts": [
             "e) to deduct, to except",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Shr. Ind. 1, 137.",
             "n": "shak. mv 5.1.137",
@@ -821,10 +777,10 @@
         },
         {
           "parts": [
-            "f) to curtail, with ",
-            " ."
+            "f) to curtail, with",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H5 III, 2, 24",
             "n": "shak. h5 3.2.24",
@@ -842,9 +798,9 @@
         {
           "parts": [
             "2) intr. (used by none but Pistol), to decrease",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Tit. I, 43",
             "n": "shak. tit 1.43",
@@ -874,12 +830,10 @@
         {
           "parts": [
             "1) diminution, debilitation",
-            "  (cf. ). . .2) lower estimation",
-            " ."
+            "(cf.). 2) lower estimation",
+            ""
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "Hml. IV, 7, 121",
             "n": "shak. ham 4.7",
@@ -909,9 +863,9 @@
         {
           "parts": [
             "the governess of a nunnery",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Err. V, 117",
             "n": "shak. err 5.1.117",
@@ -941,9 +895,9 @@
         {
           "parts": [
             "a convent governed by an abbot or abbess",
-            " .      . .  (== Westminster A.). ."
+            "(== Westminster A.)."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Err. V, 122",
             "n": "shak. err 5.1.122",
@@ -973,9 +927,9 @@
         {
           "parts": [
             "the gate of an abbey",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Err. V, 165",
             "n": "shak. err 5.1.165",
@@ -1005,9 +959,9 @@
         {
           "parts": [
             "a wall enclosing an abbey",
-            " . . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Gent. V, 1, 9",
             "n": "shak. tgv 5.1",
@@ -1037,9 +991,9 @@
         {
           "parts": [
             "the governor of a monastery",
-            " . . . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "John III, 3, 8",
             "n": "shak. jn 3.3",
@@ -1069,9 +1023,9 @@
         {
           "parts": [
             "to abridge, to reduce to a smaller form (used only by Holophernes)",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -1096,11 +1050,9 @@
       "schmidt": [
         {
           "parts": [
-            "the alphabet,  (cf. )."
+            "the alphabet, (cf.)."
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "Gent. II, 1, 23",
             "n": "shak. tgv 2.1",
@@ -1130,10 +1082,10 @@
         {
           "parts": [
             "(O. Edd. not hyphened) 1) in bed",
-            " . . . . . . . .  (Ff ). .2) to bed",
-            "  == delivered, ."
+            "(Ff). 2) to bed",
+            "== delivered,"
           ],
-          "expansions": {
+          "abbreviations": {
             "Ff": "First Folio"
           },
           "bibl": {
@@ -1165,9 +1117,9 @@
         {
           "parts": [
             "the second son of Adam slain by Cain",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "R2 I, 1, 104",
             "n": "shak. r2 1.1",
@@ -1196,10 +1148,10 @@
       "schmidt": [
         {
           "parts": [
-            "(O. Edd.  M. Edd. ), a name",
-            " . ."
+            "(O. Edd. M. Edd.), a name",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H8 I, 1, 211",
             "n": "shak. h8 1.1.211",
@@ -1229,9 +1181,9 @@
         {
           "parts": [
             "to assist (in a bad sense), to instigate",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Err. II, 2, 172",
             "n": "shak. err 2.2",
@@ -1261,9 +1213,9 @@
         {
           "parts": [
             "instigator",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Lucr. 886",
             "n": "shak. luc",
@@ -1294,9 +1246,7 @@
           "parts": [
             "the correct spelling, in Holophernes' opinion, of  (quasi inhuman!). cf."
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -1322,11 +1272,11 @@
         {
           "parts": [
             "1) to detest to extremity, to loathe; with an accus.",
-            " . .  .  . . . . . . . . . . . . . . . . . . With an inf.",
-            " . . .Part.  adjectively, == detested, abominable",
-            " .  . . . . . . . . . .  . . . . ."
+            "With an inf.",
+            "Part. adjectively, == detested, abominable",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Ven. 138",
             "n": "shak. ven ven",
@@ -1344,10 +1294,10 @@
         {
           "parts": [
             "2) to protest against, to refuse as a judge",
-            " . Hence in comical imitation of the judicial language",
-            " ."
+            "Hence in comical imitation of the judicial language",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Lucr. 195",
             "n": "shak. luc",
@@ -1365,11 +1315,9 @@
         {
           "parts": [
             "3) to fill with horror and loathing",
-            "  (Qq and M. Edd. ). ."
+            "(Qq and M. Edd.)."
           ],
-          "expansions": {
-            "Qq": "Quartos"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "Lucr. 195",
             "n": "shak. luc",
@@ -1399,9 +1347,9 @@
         {
           "parts": [
             "subst. abomination",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -1426,9 +1374,9 @@
       "schmidt": [
         {
           "parts": [
-            "name of the executioner in . ."
+            "name of the executioner in."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Meas. IV, 2, 20",
             "n": "shak. mm 4.2.20",
@@ -1458,11 +1406,11 @@
         {
           "parts": [
             "(used only in the pres. and inf.) 1) intr. a) to stay for a time",
-            " . . . . .  . . . . . . . . Distinguished from  as indicating a transient residence",
-            " .b) to remain, not to depart",
-            " . . ."
+            "Distinguished from  as indicating a transient residence",
+            "b) to remain, not to depart",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Compl. 83",
             "n": "shak. lc 83",
@@ -1480,9 +1428,9 @@
         {
           "parts": [
             "c) to continue in a state",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Meas. IV, 2, 26",
             "n": "shak. mm 4.2.26",
@@ -1500,9 +1448,9 @@
         {
           "parts": [
             "d) to dwell, to be inherent, as a gift or quality",
-            "  (comfort) . ."
+            "(comfort)."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "V, 252",
             "n": "shak. mm 5.252.26",
@@ -1520,9 +1468,9 @@
         {
           "parts": [
             "e) to stand one's ground, not to flinch or fly",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "V, 252",
             "n": "shak. mm 5.252.26",
@@ -1539,12 +1487,10 @@
         },
         {
           "parts": [
-            "2) trans. a) to await (cf. )",
-            " ."
+            "2) trans. a) to await (cf.)",
+            ""
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "Merch. III, 4, 42",
             "n": "shak. mv 3.4",
@@ -1562,11 +1508,11 @@
         {
           "parts": [
             "b) to endure, to undergo, to suffer",
-            " . . . . . . Oftener with a negative, == not to bear, not to endure",
-            " . . Especially after  and ",
-            "  Tp. ,  .   . . . . . . ."
+            "Oftener with a negative, == not to bear, not to endure",
+            "Especially after  and",
+            "Tp. ,"
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "R3 IV, 2, 49",
             "n": "shak. r3 4.2.49",
@@ -1583,9 +1529,9 @@
         },
         {
           "parts": [
-            "c) to meet in combat, to stand, to defy . . ."
+            "c) to meet in combat, to stand, to defy."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Tim. V, 1, 2",
             "n": "shak. tim 5.1.2",
@@ -1603,9 +1549,9 @@
         {
           "parts": [
             "d) to answer for, to stand the consequences of",
-            "  (Q ). . ."
+            "(Q)."
           ],
-          "expansions": {
+          "abbreviations": {
             "Q": "Quarto"
           },
           "bibl": {
@@ -1637,11 +1583,11 @@
         {
           "parts": [
             "1) power to perform",
-            " . . . . . Plur",
-            " . .  (means of resistance). .2) capacity, skill",
-            "  etc. . ."
+            "Plur",
+            "(means of resistance). 2) capacity, skill",
+            "etc."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "V, 1, 143",
             "n": "shak. wt 5.1.143",
@@ -1659,9 +1605,9 @@
         {
           "parts": [
             "3) wealth, means, a state of being provided with something",
-            " . . . Quibbling in ."
+            "Quibbling in."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Troil. III, 2, 92",
             "n": "shak. tro 3.2.92",
@@ -1690,10 +1636,10 @@
       "schmidt": [
         {
           "parts": [
-            "adj., mean, despicable",
-            " .  .  . . . . . .  , i. e. the object of his contempt."
+            "adj. , mean, despicable",
+            ", i. e. the object of his contempt."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Err. IV, 4",
             "n": "shak. err 4.4",
@@ -1722,10 +1668,10 @@
       "schmidt": [
         {
           "parts": [
-            "subst., a castaway",
-            " .*"
+            "subst. , a castaway",
+            "*"
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -1751,9 +1697,9 @@
         {
           "parts": [
             "basely",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -1779,10 +1725,10 @@
         {
           "parts": [
             "1) to renounce upon oath",
-            " . . . . .2) to recant upon oath",
-            " ."
+            "2) to recant upon oath",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Mids. I, 1, 65",
             "n": "shak. mnd 1.1",
@@ -1812,11 +1758,11 @@
         {
           "parts": [
             "adj. 1) having the power or means; followed by an inf. expressed or understood",
-            " . . . .  . . . . . . . . . . . . . . . . . . .  .  . .  . . . . . . . . . . . . . . . . Comp. . Irreg. expr.",
-            " .2) absol. a) vigorous, active",
-            " . . . . . ."
+            "Comp. Irreg. expr.",
+            "2) absol. a) vigorous, active",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Gent. II, 3, 58",
             "n": "shak. tgv 2.3",
@@ -1834,9 +1780,9 @@
         {
           "parts": [
             "b) skilful, clever",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Wiv. I, 1, 54",
             "n": "shak. wiv 1.1.54",
@@ -1853,9 +1799,10 @@
         },
         {
           "parts": [
+            "c) competent, sufficient, equal",
             ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "IV, 5, 111",
             "n": "shak. wiv 4.5.111",
@@ -1867,26 +1814,6 @@
             "lines": 111,
             "nField": "shak. wiv 4.5.111",
             "biblText": "IV, 5, 111",
-            "playName": "The Merry Wives of Windsor"
-          }
-        },
-        {
-          "parts": [
-            "c) competent, sufficient, equal",
-            " . . ."
-          ],
-          "expansions": {},
-          "bibl": {
-            "text": "V, 5, 142",
-            "n": "shak. wiv 5.5.142",
-            "default": "NO",
-            "valid": "yes",
-            "play": "wiv",
-            "act": 5,
-            "scene": 5,
-            "lines": 142,
-            "nField": "shak. wiv 5.5.142",
-            "biblText": "V, 5, 142",
             "playName": "The Merry Wives of Windsor"
           }
         }
@@ -1905,11 +1832,9 @@
         {
           "parts": [
             "vb. (cf. Nares' Glossary) to warrant, to answer for",
-            " ."
+            ""
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -1935,13 +1860,13 @@
         {
           "parts": [
             "1) absol. a) in a ship",
-            " . . . . . b) into a ship",
-            " . . .  . . .  .  . . . . . . .  .   == to board, to grapple",
-            " .  (== boarding the conquered vessel).2) with an accus., always replying to the question ",
-            " . . . .  == a. his ship",
-            " . .  (Ff )."
+            "b) into a ship",
+            "== to board, to grapple",
+            "(== boarding the conquered vessel). 2) with an accus. , always replying to the question",
+            "== a. his ship",
+            "(Ff)."
           ],
-          "expansions": {
+          "abbreviations": {
             "Ff": "First Folio"
           },
           "bibl": {
@@ -1972,11 +1897,11 @@
       "schmidt": [
         {
           "parts": [
-            "subst., stay, continuance in a place",
-            " . . .  (for my being so late).  (desire him to stay, to remain where etc.).  == to dwell, to live",
-            " . . .  ()."
+            "subst. , stay, continuance in a place",
+            "(for my being so late). (desire him to stay, to remain where etc.). == to dwell, to live",
+            "()."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "R3 I, 3, 169",
             "n": "shak. r3 1.3.169",
@@ -2006,9 +1931,9 @@
         {
           "parts": [
             "vb. tr. to foreshow, in a bad sense",
-            " . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H6C V, 6, 45",
             "n": "shak. 3h6 5.6.45",
@@ -2038,9 +1963,9 @@
         {
           "parts": [
             "omen, in a bad sense",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H6C IV, 7, 13",
             "n": "shak. 3h6 4.7.13",
@@ -2070,9 +1995,11 @@
         {
           "parts": [
             "(spelt throughout  in F) detestable, execrable",
-            " . . . . . . . . . . . . . . . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {
+            "F": "Folios"
+          },
           "bibl": {
             "text": "Tp. II, 2, 163",
             "n": "shak. tmp 2.2",
@@ -2102,9 +2029,9 @@
         {
           "parts": [
             "detestably",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Hml. III, 2, 39",
             "n": "shak. ham 3.2",
@@ -2134,10 +2061,10 @@
         {
           "parts": [
             "1) detestableness",
-            " .2) any thing detestable",
-            " .  . (F )."
+            "2) any thing detestable",
+            "(F)."
           ],
-          "expansions": {
+          "abbreviations": {
             "F": "Folios"
           },
           "bibl": {
@@ -2165,10 +2092,10 @@
         {
           "parts": [
             "adj. 1) born before the due time",
-            " .2) monstrous, unnatural",
-            " . . ."
+            "2) monstrous, unnatural",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "I, 3, 228",
             "n": "shak. r3 1.3.228",
@@ -2198,9 +2125,9 @@
         {
           "parts": [
             "subst. monstrous birth",
-            " ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "",
             "play": "",
@@ -2226,10 +2153,10 @@
         {
           "parts": [
             "1) to live in wealth and plenty",
-            " .2) with  to be copiously stored with",
-            " . . ."
+            "2) with  to be copiously stored with",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Mcb. IV, 3, 95",
             "n": "shak. mac 4.3.95",
@@ -2247,11 +2174,9 @@
         {
           "parts": [
             "3) to be in great plenty",
-            " . .  (Qq ). . ."
+            "(Qq)."
           ],
-          "expansions": {
-            "Qq": "Quartos"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "H5 III, 2, 7",
             "n": "shak. h5 3.2.7",
@@ -2281,10 +2206,10 @@
         {
           "parts": [
             "prepos. 1) round",
-            " . .  . . . . . . . . .  etc. . . . . . .2) near to a person",
-            " . . . . . . . . . . ."
+            "etc. 2) near to a person",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Err. V, 10",
             "n": "shak. err 5.1",
@@ -2302,9 +2227,9 @@
         {
           "parts": [
             "3) carried by, or appendant to, a person",
-            " . . .  . . .  (is not yet obsolete with me). . . . . . . . . . . . .  etc."
+            "(is not yet obsolete with me). etc."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Tp. III, 2, 147",
             "n": "shak. tmp 3.2",
@@ -2322,12 +2247,10 @@
         {
           "parts": [
             "4) anywhere, here or there within a certain locality",
-            " . .  (anywhere in the house). .  . . . . . .  == throughout",
-            " . . . cf. , i. e. through thick and thin."
+            "(anywhere in the house). == throughout",
+            "cf. , i. e. through thick and thin."
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "As III, 2, 191",
             "n": "shak. ayl 3.2",
@@ -2345,9 +2268,9 @@
         {
           "parts": [
             "5) near in size, quantity, or time",
-            " .  . . . . . . .  .  etc."
+            "etc."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Shr. I, 2, 141",
             "n": "shak. shr 1.2.141",
@@ -2365,12 +2288,10 @@
         {
           "parts": [
             "6) in a state of being engaged in, or intent on",
-            " .  . . .  (watch all the town carefully).  == he is doing it, . .  (== I will fall to work). . . . . . . . . . .  (== at him! take him to task!). .  . . . .  == to get one's self ready for, to be going to do",
-            " . . . . . . . . .  (I'll resolutelv try my fortune with her). . . . cf. . ."
+            "(watch all the town carefully). == he is doing it, (== I will fall to work). (== at him! take him to task!). == to get one's self ready for, to be going to do",
+            "(I'll resolutelv try my fortune with her). cf."
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "II, 302",
             "n": "shak. shr 2.302.141",
@@ -2388,9 +2309,9 @@
         {
           "parts": [
             "7) concerning, relating to, with regard to",
-            " . . .  . . . . . . . .  etc."
+            "etc."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H5 V, 2, 190",
             "n": "shak. h5 5.2",
@@ -2408,9 +2329,9 @@
         {
           "parts": [
             "8) on account of",
-            " . . . . . . . . . . . ."
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H6C V, 1, 108",
             "n": "shak. 3h6 5.1.108",
@@ -2428,9 +2349,9 @@
         {
           "parts": [
             "Transposed",
-            "  == a. the house, Per. III, Prol. 2 (Gower's speech)."
+            "== a. the house, Per. III, Prol. 2 (Gower's speech)."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H8 V, 5, 55",
             "n": "shak. h8 5.5.55",
@@ -2460,13 +2381,13 @@
         {
           "parts": [
             "adv. 1) round, circularly",
-            " . . .2) round, on every side",
-            " . . . . . . . ",
-            " . . . . .  == a) to look on all sides, or in different directions",
-            " . b) to be on the watch",
-            " . . ."
+            "2) round, on every side",
+            "",
+            "== a) to look on all sides, or in different directions",
+            "b) to be on the watch",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "I, 3, 46",
             "n": "shak. wiv 1.3.46",
@@ -2484,11 +2405,9 @@
         {
           "parts": [
             "3) by a circuitous way",
-            " . . . Metaphorically.  (do not shuffle, use no quibbling). . . cf. ."
+            "Metaphorically. (do not shuffle, use no quibbling). cf."
           ],
-          "expansions": {
-            "cf.": "compare"
-          },
+          "abbreviations": {},
           "bibl": {
             "text": "John II, 217",
             "n": "shak. jn 2.217",
@@ -2506,9 +2425,9 @@
         {
           "parts": [
             "4) here and there, up and down",
-            " . . . . .  etc. , i. e. here and there, in divers places."
+            "etc. , i. e. here and there, in divers places."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "H6C IV, 2, 15",
             "n": "shak. 3h6 4.2.15",
@@ -2526,9 +2445,9 @@
         {
           "parts": [
             "5) to a certain point, to an appointed or desired place",
-            "  (i. e. to the appointed place).  (accomplished).  (has become favourable).  (come to pass, be effected). ."
+            "(i. e. to the appointed place). (accomplished). (has become favourable). (come to pass, be effected)."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "R3 I, 4, 59",
             "n": "shak. r3 1.4.59",
@@ -2546,11 +2465,11 @@
         {
           "parts": [
             "6) upon the point, ready, going",
-            " . . . . . . .  etc.  (== what will become of this?)  == to be going, to have in hand, to make it one's task",
-            " . . . . . . . .  . .  (== I will go to work with him, he shall find his match in me) .  == to prepare, to arrange",
-            " .  == to work! be not idle! . . .  (he would go on with a vengeance)."
+            "etc. (== what will become of this?)  == to be going, to have in hand, to make it one's task",
+            "(== I will go to work with him, he shall find his match in me). == to prepare, to arrange",
+            "== to work! be not idle!. (he would go on with a vengeance)."
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Hml. I, 5, 71",
             "n": "shak. ham 1.5.71",
@@ -2580,10 +2499,10 @@
         {
           "parts": [
             "adv. 1) in a higher place, overhead; a) in heaven",
-            " . . . . . . . . . . . . . . . . .b) upstairs",
-            " . . ."
+            "b) upstairs",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Tp. I, 1, 71",
             "n": "shak. tmp 1.1",
@@ -2600,10 +2519,10 @@
         },
         {
           "parts": [
-            "2) besides (when joined to  and )",
-            " . ."
+            "2) besides (when joined to  and)",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Wiv. I, 4, 154",
             "n": "shak. wiv 1.4.154",
@@ -2633,10 +2552,10 @@
         {
           "parts": [
             "prepos. 1) in or to a higher place; a) over",
-            " . . . . . .  (viz the waist) .  (on thy head).b) overhead",
-            " . . ."
+            "(viz the waist). (on thy head). b) overhead",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Lr. IV, 6, 127",
             "n": "shak. lr 4.6",
@@ -2654,10 +2573,10 @@
         {
           "parts": [
             "c) comparatively higher, in a proper and figurative sense",
-            " . . .  . . . .  .  . . . . . . .   . . . .  == above all (which expression is yet unknown to Sh.)",
-            " . . ."
+            "== above all (which expression is yet unknown to Sh.)",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "Tp. I, 2, 168",
             "n": "shak. tmp 1.2.168",
@@ -2675,10 +2594,10 @@
         {
           "parts": [
             "2) more than",
-            " . . . . .  (viz Paris). .  == besides",
-            " ."
+            "(viz Paris). == besides",
+            ""
           ],
-          "expansions": {},
+          "abbreviations": {},
           "bibl": {
             "text": "LLL IV, 3, 332",
             "n": "shak. lll 4.3.332",
