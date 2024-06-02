@@ -1,8 +1,8 @@
-export const abbreviationLookup: { [key: string]: { pattern: RegExp, description: string } } = {
+export const abbreviationLookup: { [key: string]: Abbreviation } = {
   "Qq.": { pattern: /\bQq\.\b/g, description: "Quartos" },
-  "Q": { pattern: /\bQ\b/g, description: "Quarto" },
+  "Q": { pattern: /\bQ\b(?!\.)/g, description: "Quarto" }, // Ensure Q is detected but not followed by a dot
   "Ff": { pattern: /\bFf\b/g, description: "First Folio" },
-  "F": { pattern: /\bF\b/g, description: "Folios" },
+  "F": { pattern: /\bF\b(?!\.)/g, description: "Folios" }, // Ensure F is detected but not followed by a dot
   "f. i.": { pattern: /\bf\. i\.\b/g, description: "for instance" },
   "cf.": { pattern: /\bcf\.\b/g, description: "compare" },
   "i. e.": { pattern: /\bi\. e\.\b/g, description: "in example" },

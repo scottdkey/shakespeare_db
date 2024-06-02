@@ -1,8 +1,8 @@
 
-import { cleanText } from "./cleanText";
-import { ensureArray } from "./ensureArray";
+import { cleanText } from "../util/cleanText";
+import { ensureArray } from "../util/ensureArray";
 import { parseBiblText } from "./parseBiblText";
-import { parseSchmidtLexicon } from "./schmidtLexParser";
+import { parseSchmidtLexicon } from "../util/schmidtLexParser";
 
 /**
  * 

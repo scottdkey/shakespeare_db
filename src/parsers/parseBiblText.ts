@@ -1,6 +1,7 @@
 import { parseBiblTextFields } from "./parseBiblTextFields";
-import { parseNField } from "./parseNField";
-import { getPlayName } from "./playName";
+import { parseNField } from "../util/parseNField";
+import { romanToArabic } from "../util/romanToArabic"
+import { getPlayName } from "../data/playNames";
 
 
 export const parseBiblText = (biblText: string, nField: string) => {

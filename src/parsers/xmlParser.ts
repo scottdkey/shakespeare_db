@@ -1,5 +1,5 @@
 import { parseString } from "xml2js";
-import { parseTEI } from "./parseTei";
+import { parseTEI } from "../parsers/parseTei";
 
 /**
  * An XML Parser function to specifically parse the Tufts TEI format from the Perseus Shakespeare Lexicon
