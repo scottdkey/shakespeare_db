@@ -3,7 +3,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A,",
+      "value": "A",
       "valueKey": "A1",
       "schmidt": [
         {
@@ -35,7 +35,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A,",
+      "value": "A",
       "valueKey": "A2",
       "schmidt": [
         {
@@ -67,7 +67,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "",
+      "value": null,
       "valueKey": "A3",
       "schmidt": [
         {
@@ -321,7 +321,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A,",
+      "value": "A",
       "valueKey": "A4",
       "schmidt": [
         {
@@ -466,7 +466,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A,",
+      "value": "A",
       "valueKey": "A5",
       "schmidt": [
         {
@@ -496,7 +496,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A,",
+      "value": "A",
       "valueKey": "A6",
       "schmidt": [
         {
@@ -530,7 +530,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A,",
+      "value": "A",
       "valueKey": "A7",
       "schmidt": [
         {
@@ -564,7 +564,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Aaron,",
+      "value": "Aaron",
       "valueKey": "Aaron",
       "schmidt": [
         {
@@ -595,7 +595,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abandon,",
+      "value": "Abandon",
       "valueKey": "Abandon",
       "schmidt": [
         {
@@ -635,7 +635,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abase,",
+      "value": "Abase",
       "valueKey": "Abase",
       "schmidt": [
         {
@@ -663,7 +663,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abashed,",
+      "value": "Abashed",
       "valueKey": "Abashed",
       "schmidt": [
         {
@@ -691,7 +691,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abate,",
+      "value": "Abate",
       "valueKey": "Abate",
       "schmidt": [
         {
@@ -780,7 +780,9 @@
             "f) to curtail, with",
             ""
           ],
-          "abbreviations": {},
+          "abbreviations": {
+            "F": "Folios"
+          },
           "bibl": {
             "text": "H5 III, 2, 24",
             "n": "shak. h5 3.2.24",
@@ -824,7 +826,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abatement,",
+      "value": "Abatement",
       "valueKey": "Abatement",
       "schmidt": [
         {
@@ -857,7 +859,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abbess,",
+      "value": "Abbess",
       "valueKey": "Abbess",
       "schmidt": [
         {
@@ -889,7 +891,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abbey,",
+      "value": "Abbey",
       "valueKey": "Abbey",
       "schmidt": [
         {
@@ -921,7 +923,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abbey-gate,",
+      "value": "Abbey-gate",
       "valueKey": "Abbey-gate",
       "schmidt": [
         {
@@ -953,7 +955,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abbey-wall,",
+      "value": "Abbey-wall",
       "valueKey": "Abbey-wall",
       "schmidt": [
         {
@@ -985,7 +987,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abbot,",
+      "value": "Abbot",
       "valueKey": "Abbot",
       "schmidt": [
         {
@@ -1017,7 +1019,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abbreviate,",
+      "value": "Abbreviate",
       "valueKey": "Abbreviate",
       "schmidt": [
         {
@@ -1045,7 +1047,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A B C,",
+      "value": "A B C",
       "valueKey": "A B C",
       "schmidt": [
         {
@@ -1076,7 +1078,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "A-bed,",
+      "value": "A-bed",
       "valueKey": "A-bed",
       "schmidt": [
         {
@@ -1111,7 +1113,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abel,",
+      "value": "Abel",
       "valueKey": "Abel",
       "schmidt": [
         {
@@ -1143,7 +1145,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abergany,",
+      "value": "Abergany",
       "valueKey": "Abergany",
       "schmidt": [
         {
@@ -1175,7 +1177,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abet,",
+      "value": "Abet",
       "valueKey": "Abet",
       "schmidt": [
         {
@@ -1207,7 +1209,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abettor,",
+      "value": "Abettor",
       "valueKey": "Abettor",
       "schmidt": [
         {
@@ -1239,7 +1241,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abhominable,",
+      "value": "Abhominable",
       "valueKey": "Abhominable",
       "schmidt": [
         {
@@ -1266,7 +1268,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abhor,",
+      "value": "Abhor",
       "valueKey": "Abhor",
       "schmidt": [
         {
@@ -1341,7 +1343,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abhorring,",
+      "value": "Abhorring",
       "valueKey": "Abhorring",
       "schmidt": [
         {
@@ -1369,7 +1371,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abhorson,",
+      "value": "Abhorson",
       "valueKey": "Abhorson",
       "schmidt": [
         {
@@ -1400,7 +1402,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abide,",
+      "value": "Abide",
       "valueKey": "Abide",
       "schmidt": [
         {
@@ -1577,7 +1579,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Ability,",
+      "value": "Ability",
       "valueKey": "Ability",
       "schmidt": [
         {
@@ -1631,7 +1633,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Ábject,",
+      "value": "Ábject",
       "valueKey": "Abject1",
       "schmidt": [
         {
@@ -1663,7 +1665,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abjéct,",
+      "value": "Abjéct",
       "valueKey": "Abject2",
       "schmidt": [
         {
@@ -1691,7 +1693,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Ábjectly,",
+      "value": "Ábjectly",
       "valueKey": "bjectly",
       "schmidt": [
         {
@@ -1719,7 +1721,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abjure,",
+      "value": "Abjure",
       "valueKey": "Abjure",
       "schmidt": [
         {
@@ -1752,7 +1754,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Able,",
+      "value": "Able",
       "valueKey": "Able1",
       "schmidt": [
         {
@@ -1826,7 +1828,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Able,",
+      "value": "Able",
       "valueKey": "Able2",
       "schmidt": [
         {
@@ -1854,7 +1856,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Aboard,",
+      "value": "Aboard",
       "valueKey": "Aboard",
       "schmidt": [
         {
@@ -1892,7 +1894,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abode,",
+      "value": "Abode",
       "valueKey": "Abode1",
       "schmidt": [
         {
@@ -1925,7 +1927,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abode,",
+      "value": "Abode",
       "valueKey": "Abode2",
       "schmidt": [
         {
@@ -1957,7 +1959,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abodement,",
+      "value": "Abodement",
       "valueKey": "Abodement",
       "schmidt": [
         {
@@ -1989,7 +1991,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abominable,",
+      "value": "Abominable",
       "valueKey": "Abominable",
       "schmidt": [
         {
@@ -2023,7 +2025,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abominably,",
+      "value": "Abominably",
       "valueKey": "Abominably",
       "schmidt": [
         {
@@ -2055,7 +2057,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abomination,",
+      "value": "Abomination",
       "valueKey": "Abomination",
       "schmidt": [
         {
@@ -2086,7 +2088,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abortive,",
+      "value": "Abortive",
       "valueKey": "Abortive1",
       "schmidt": [
         {
@@ -2119,7 +2121,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abortive,",
+      "value": "Abortive",
       "valueKey": "Abortive2",
       "schmidt": [
         {
@@ -2147,7 +2149,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Abound,",
+      "value": "Abound",
       "valueKey": "Abound",
       "schmidt": [
         {
@@ -2200,7 +2202,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "About,",
+      "value": "About",
       "valueKey": "About1",
       "schmidt": [
         {
@@ -2375,7 +2377,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "About,",
+      "value": "About",
       "valueKey": "About2",
       "schmidt": [
         {
@@ -2493,7 +2495,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Above,",
+      "value": "Above",
       "valueKey": "Above1",
       "schmidt": [
         {
@@ -2546,7 +2548,7 @@
     {
       "type": "main",
       "opt": "n",
-      "value": "Above,",
+      "value": "Above",
       "valueKey": "Above2",
       "schmidt": [
         {

@@ -1,20 +1,21 @@
 import { abbreviationLookup } from "../data/abbreviations";
 
 /**
- * A function to check against known list of abbreviations and attempt to supply context.
+ * A function to check against a known list of abbreviations and attempt to supply context.
+ * Improved to enhance detection.
  * @param text string of text to check for abbreviations
  * @returns an object with discovered abbreviations
  */
 export const expandAbbreviations = (text: string): { [key: string]: string } => {
   const expansions: { [key: string]: string } = {};
-
-  // Normalize the text to avoid case sensitivity issues and ensure consistency
-  const normalizedText = text.replace(/\s+/g, ' ').trim();
+  const lowerCaseText = text.toLowerCase();
 
   // Iterate over abbreviation patterns and check for matches
-  for (const [abbr, { pattern, description }] of Object.entries(abbreviationLookup)) {
-    const matches = normalizedText.match(pattern);
-    if (matches) {
+  for (const [abbr, { pattern, description }] of Object.entries<Abbreviation>(abbreviationLookup)) {
+    let match;
+    // Use global and case-insensitive flags to find all matches
+    const regex = new RegExp(pattern.source, 'gi');
+    while ((match = regex.exec(lowerCaseText)) !== null) {
       expansions[abbr] = description;
     }
   }

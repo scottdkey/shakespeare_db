@@ -3,6 +3,8 @@ import { cleanText } from "../util/cleanText";
 import { ensureArray } from "../util/ensureArray";
 import { parseBiblText } from "./parseBiblText";
 import { parseSchmidtLexicon } from "../util/schmidtLexParser";
+import { removeTrailingComma } from "../util/removeTrailingComma";
+import { removeTrailingNumber } from "../util/removeTrailingNumber";
 
 /**
  * 
@@ -23,10 +25,23 @@ export const parseTEI = (data: TEI2) => {
       ...parseBiblText(cleanText(b?._ || ''), b?.$.n),
     }));
 
+
+    const parseValue = (value: string, key: string) => {
+      const fallbackValue = removeTrailingNumber(key)
+      const current = removeTrailingComma(value ?? fallbackValue)
+
+      return current
+
+    }
+
+    console.log(
+      { ...entry.$, value: parseValue(entry.orth._, entry.$.key) }
+    )
+
     return {
       type: entry.$.type,
       opt: entry.$.opt,
-      value: entry.orth ? cleanText(entry.orth?._ || '') : null,
+      value: entry.orth && entry.orth._ ? removeTrailingComma(entry.orth._) : null,
       valueKey: entry.$.key,
       schmidt: parseSchmidtLexicon(entry?._).map((v, i) => {
         return { ...v, bibl: bibl[i] }
