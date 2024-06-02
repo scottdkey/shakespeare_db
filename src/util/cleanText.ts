@@ -1,14 +1,4 @@
 /**
- * This function will:
- * Remove any occurrences of ". . .";
- * Replace any remaining consecutive periods with a single period;
- * Ensure one space after punctuation marks: '. , ; :';
- * Remove any trailing punctuation followed by spaces;
- * Remove any leading or trailing spaces;
- * Remove extra whitespace between parentheses;
- * Remove " ." pattern;
- * Replace " )" with ")";
- * 
  * @param text input text to clean
  * @returns cleaned text
  */

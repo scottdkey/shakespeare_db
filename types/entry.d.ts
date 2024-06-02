@@ -1,39 +1,50 @@
-interface Orth {
-  _: string;
-  $: {
-    extent: string;
-    opt: string;
-  };
-}
-
-interface Bibl {
-  _: string;
-  $: {
-    n: string;
-    default: string;
-    valid: string;
-  };
-}
-
 interface EntryFree {
-  _: string;
-  $: {
-    key: string;
-    type: string;
-    opt: string;
-  };
-  orth: Orth;
-  bibl: Bibl[];
+  _: string,
+  $: EntryFreeMeta,
+  orth: Orth,
+  bibl?: Bibl[],
+  emph?: string[],
+  cit?: Cit[]
+}
+
+interface Cit {
+  quote: string,
+  bibl: Bibl
 }
 
 interface Div1 {
+  $: EntryMeta,
+  entryFree: EntryFree
+}
+
+interface EntryMeta {
+  type: string,
+  n: string,
+  org: string,
+  sample: string
+}
+
+interface EntryFreeMeta {
+  key: string,
+  type: string,
+  opt: string,
+}
+
+interface Orth {
+  _: string,
   $: {
-    type: string;
-    n: string;
-    org: string;
-    sample: string;
-  };
-  entryFree: EntryFree;
+    extend: string,
+    opt: string
+  }
+}
+
+interface Bibl {
+  _: string,
+  $: {
+    n: string,
+    default: "YES" | "NO",
+    valid: "yes" | "no"
+  }
 }
 
 interface Body {
